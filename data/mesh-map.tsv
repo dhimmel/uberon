@@ -1,645 +1,645 @@
-uberon_id	uberon_name	mesh_tree_number	mesh_id	mesh_name
-UBERON:0001577	facial muscle	A02.633.567.400	D005152	Facial Muscles
-UBERON:0001681	nasal bone	A02.835.232.781.324.665	D009295	Nasal Bone
-UBERON:0001264	pancreas	A03.734	D010179	Pancreas
-UBERON:0002356	perineum	A01.719	D010502	Perineum
-UBERON:0001688	incus bone	A09.246.397.247.362	D007188	Incus
-UBERON:0010074	chromaffin system	A06.224	D002838	Chromaffin System
-UBERON:0004019	baroreceptor	A08.800.050.800.900.700	D011311	Pressoreceptors
-UBERON:0001648	vestibulocochlear nerve	A08.800.800.120.910	D000159	Vestibulocochlear Nerve
-UBERON:0001224	renal pelvis	A05.810.453.537	D007682	Kidney Pelvis
-UBERON:0006349	epigastric artery	A07.231.114.330	D019074	Epigastric Arteries
-UBERON:0004237	blood vessel smooth muscle	A02.633.570.491	D009131	Muscle, Smooth, Vascular
-UBERON:0006378	strand of vibrissa hair	A13.950	D014738	Vibrissae
-UBERON:0001905	pineal body	A06.407.635	D010870	Pineal Gland
-UBERON:0001638	vein	A07.231.908	D014680	Veins
-UBERON:0003474	meningeal artery	A07.231.114.545	D008576	Meningeal Arteries
-UBERON:0002048	lung	A04.411	D008168	Lung
-UBERON:0007623	comb and wattle	A13.242	D003129	Comb and Wattles
-UBERON:0001716	secondary palate	A14.521.658	D010159	Palate
-UBERON:0000375	mandibular nerve	A08.800.800.120.760.500	D008340	Mandibular Nerve
-UBERON:0003711	brachiocephalic vein	A07.231.908.130	D016121	Brachiocephalic Veins
-UBERON:0000997	mammalian vulva	A05.360.319.887	D014844	Vulva
-UBERON:0003713	splenic vein	A07.231.908.670.730	D013162	Splenic Vein
-UBERON:0002137	aortic valve	A07.541.510.110	D001021	Aortic Valve
-UBERON:0001361	femoral vein	A07.231.908.314	D005268	Femoral Vein
-UBERON:0005094	beak	A13.114	D001502	Beak
-UBERON:0003126	trachea	A04.889	D014132	Trachea
-UBERON:0007780	exudate	A12.383	D005122	Exudates and Transudates
-UBERON:0007779	transduate	A12.383	D005122	Exudates and Transudates
-UBERON:0000211	ligament	A02.513	D008022	Ligaments
-UBERON:0005974	posterior cerebellomedullary cistern	A08.186.566.166.686.351	D002946	Cisterna Magna
-UBERON:0003709	circle of Willis	A07.231.114.228.351	D002941	Circle of Willis
-UBERON:0001003	skin epidermis	A10.272.497	D004817	Epidermis
-UBERON:0004367	Descemet's membrane	A09.371.060.217.271	D003886	Descemet Membrane
-UBERON:0000473	testis	A05.360.444.849	D013737	Testis
-UBERON:0000395	cochlear ganglion	A08.340.390.800	D013136	Spiral Ganglion
-UBERON:0007625	pigment epithelium of eye	A09.371.670	D010857	Pigment Epithelium of Eye
-UBERON:0000991	gonad	A05.360.576	D006066	Gonads
-UBERON:0002415	tail	A13.895	D013623	Tail
-UBERON:0002361	pia mater	A08.186.566.731	D010841	Pia Mater
-UBERON:0002521	elastic tissue	A10.165.400	D004547	Elastic Tissue
-UBERON:0001690	ear	A01.456.313	D004423	Ear
-UBERON:0002226	basilar membrane of cochlea	A09.246.631.246.125	D001489	Basilar Membrane
-UBERON:0000022	feather	A13.370	D005241	Feathers
-UBERON:0000080	mesonephros	A16.254.500	D001755	Blastocyst
-UBERON:0001824	mucosa of larynx	A04.329.597	D007820	Laryngeal Mucosa
-UBERON:0001484	articular capsule	A02.835.583.443	D017746	Joint Capsule
-UBERON:0005994	chorda tendineae	A07.541.510.240	D002815	Chordae Tendineae
-UBERON:0000348	ophthalmic nerve	A08.800.800.120.760.650	D009882	Ophthalmic Nerve
-UBERON:0002275	reticular formation	A08.186.211.132.772	D012154	Reticular Formation
-UBERON:0003714	neural tissue	A08.561	D009417	Nerve Tissue
-UBERON:0002360	meninx	A08.186.566	D008578	Meninges
-UBERON:0001236	adrenal medulla	A06.224.161	D019439	Chromaffin Cells
-UBERON:0003715	splanchnic nerve	A08.800.050.050.800	D013153	Splanchnic Nerves
-UBERON:0001855	cochlear duct of membranous labyrinth	A09.246.631.246.292	D003053	Cochlear Duct
-UBERON:0001760	frontal sinus	A04.531.621.387	D005626	Frontal Sinus
-UBERON:0000026	appendage	A01.378	D005121	Extremities
-UBERON:0001832	sublingual gland	A10.336.779.687	D013361	Sublingual Gland
-UBERON:0001616	maxillary artery	A07.231.114.523	D008438	Maxillary Artery
-UBERON:0001750	lacrimal apparatus	A09.371.463	D007765	Lacrimal Apparatus
-UBERON:0001801	anterior segment of eyeball	A09.371.060	D000869	Anterior Eye Segment
-UBERON:0000178	blood	A12.207.152	D001769	Blood
-UBERON:0001090	synovial fluid	A02.835.583.443.800.800	D013582	Synovial Fluid
-UBERON:0012453	nerve ending	A08.800.550	D009411	Nerve Endings
-UBERON:0002205	manubrium of sternum	A02.835.232.904.766.442	D008371	Manubrium
-UBERON:0003712	cavernous sinus	A07.231.908.224.334	D002426	Cavernous Sinus
-UBERON:0001305	ovarian follicle	A05.360.319.114.630.535	D006080	Ovarian Follicle
-UBERON:0003716	recurrent laryngeal nerve	A08.800.050.050.925.450.700	D012009	Recurrent Laryngeal Nerve
-UBERON:0001535	vertebral artery	A07.231.114.955	D014711	Vertebral Artery
-UBERON:0000416	subdural space	A08.186.566.395.687	D013355	Subdural Space
-UBERON:0002352	atrioventricular node	A07.541.409.147	D001283	Atrioventricular Node
-UBERON:0001711	eyelid	A01.456.505.420.504	D005143	Eyelids
-UBERON:0001064	ventral pancreatic duct	A03.734.667	D010183	Pancreatic Ducts
-UBERON:0001465	knee	A01.378.610.450	D007717	Knee
-UBERON:0001911	mammary gland	A10.336.482	D008321	Mammary Glands, Animal
-UBERON:0001988	feces	A12.459	D005243	Feces
-UBERON:0001324	common fibular nerve	A08.800.800.720.450.760.640	D010543	Peroneal Nerve
-UBERON:0003473	thoracic cavity artery	A07.231.114.891	D013895	Thoracic Arteries
-UBERON:0001844	cochlea	A09.246.631.246	D003051	Cochlea
-UBERON:0003726	thoracic nerve	A08.800.800.720.800	D013900	Thoracic Nerves
-UBERON:0003824	nerve of thoracic segment	A08.800.800.720.800	D013900	Thoracic Nerves
-UBERON:0002515	periosteum	A10.165.265.746	D010521	Periosteum
-UBERON:0002005	enteric nervous system	A08.800.050.150	D017615	Enteric Nervous System
-UBERON:0002535	gill	A13.421	D005880	Gills
-UBERON:0001640	celiac artery	A07.231.114.207	D002445	Celiac Artery
-UBERON:0002228	rib	A02.835.232.904.567	D012272	Ribs
-UBERON:0002497	acromion	A02.835.232.087.783.261	D000174	Acromion
-UBERON:0012279	chromaffin paraganglion	A06.224.736	D010233	Paraganglia, Chromaffin
-UBERON:0001775	ciliary body	A09.371.894.280	D002924	Ciliary Body
-UBERON:0005616	mesenteric artery	A07.231.114.565	D008638	Mesenteric Arteries
-UBERON:0001469	sternoclavicular joint	A02.835.583.781	D013247	Sternoclavicular Joint
-UBERON:0007113	venom	A12.200.935	D014688	Venoms
-UBERON:0001893	telencephalon	A08.186.211.730.885	D013687	Telencephalon
-UBERON:0005969	eye trabecular meshwork	A09.371.060.932	D014129	Trabecular Meshwork
-UBERON:0001348	brown adipose tissue	A10.165.114.322	D002001	Adipose Tissue, Brown
-UBERON:0001744	lymphoid tissue	A10.549	D008221	Lymphoid Tissue
-UBERON:0001786	fovea centralis	A09.371.729.522.436	D005584	Fovea Centralis
-UBERON:0001970	bile	A12.200.087	D001646	Bile
-UBERON:0002303	juxtaglomerular apparatus	A05.810.453.736.520.520	D007606	Juxtaglomerular Apparatus
-UBERON:0001398	brachial artery	A07.231.114.139	D001916	Brachial Artery
-UBERON:0001323	tibial nerve	A08.800.800.720.450.760.820	D013979	Tibial Nerve
-UBERON:0004657	mandible condylar process	A02.835.232.781.324.502.632.600	D008335	Mandibular Condyle
-UBERON:0002369	adrenal gland	A06.407.071	D000311	Adrenal Glands
-UBERON:0001479	sesamoid bone	A02.835.232.730	D012716	Sesamoid Bones
-UBERON:0002397	maxilla	A02.835.232.781.324.502.645	D008437	Maxilla
-UBERON:0002516	epiphyseal plate	A02.835.232.251.352	D006132	Growth Plate
-UBERON:0008978	anal sac	A13.073	D000695	Anal Sacs
-UBERON:0000982	skeletal joint	A02.835.583	D007596	Joints
-UBERON:0000977	pleura	A04.716	D010994	Pleura
-UBERON:0001135	smooth muscle tissue	A02.633.570	D009130	Muscle, Smooth
-UBERON:0005304	submucous nerve plexus	A08.800.050.050.850	D013368	Submucous Plexus
-UBERON:0001989	superior cervical ganglion	A08.340.315.350.850	D017783	Superior Cervical Ganglion
-UBERON:0001649	glossopharyngeal nerve	A08.800.800.120.290	D005930	Glossopharyngeal Nerve
-UBERON:0001485	knee joint	A02.835.583.475	D007719	Knee Joint
-UBERON:0002384	connective tissue	A10.165	D003238	Connective Tissue
-UBERON:0001673	central retinal vein	A07.231.611.773	D012169	Retinal Vein
-UBERON:0001685	hyoid bone	A02.835.232.409	D006928	Hyoid Bone
-UBERON:0001702	eyelash	A01.456.505.420.504.421	D005140	Eyelashes
-UBERON:0000053	macula lutea	A09.371.729.522	D008266	Macula Lutea
-UBERON:0002061	truncus arteriosus	A07.541.278.930	D014338	Truncus Arteriosus
-UBERON:0004122	genitourinary system	A05	D014566	Urogenital System
-UBERON:0001632	temporal artery	A07.231.114.228.868	D013699	Temporal Arteries
-UBERON:0003823	hindlimb zeugopod	A01.378.610.500	D007866	Leg
-UBERON:0001598	temporalis muscle	A02.633.567.600.850	D013703	Temporal Muscle
-UBERON:0003694	atlanto-axial joint	A02.835.583.097	D001268	Atlanto-Axial Joint
-UBERON:0004670	ependyma	A08.186.211.276.460	D004805	Ependyma
-UBERON:0005357	brain ependyma	A08.186.211.276.460	D004805	Ependyma
-UBERON:0001998	sternocostal joint	A02.835.583.790	D013248	Sternocostal Joints
-UBERON:0003669	fascia lata	A02.340.424	D005206	Fascia Lata
-UBERON:0000382	apocrine sweat gland	A10.336.899.206	D001050	Apocrine Glands
-UBERON:0000456	bodily secretion	A12.200	D012634	Bodily Secretions
-UBERON:0007362	omasum	A13.869.524	D009851	Omasum
-UBERON:0001780	spinal nerve	A08.800.800.720	D013127	Spinal Nerves
-UBERON:0001183	inferior mesenteric artery	A07.231.114.565.510	D017537	Mesenteric Artery, Inferior
-UBERON:0003707	sinus of Valsalva	A07.231.114.056.847	D012850	Sinus of Valsalva
-UBERON:0009025	gastroepiploic artery	A07.231.114.379	D024405	Gastroepiploic Artery
-UBERON:0002519	otolithic part of statoconial membrane	A09.246.631.909.625.125.680	D010037	Otolithic Membrane
-UBERON:0001720	cochlear nucleus	A08.186.211.132.810.428.600.135	D017626	Cochlear Nucleus
-UBERON:0011860	collection of collagen fibrils	D12.776.860.300.250.300	D024022	Fibrillar Collagens
-UBERON:0006856	interrenal gland	A13.530	D007401	Interrenal Gland
-UBERON:0000362	renal medulla	A05.810.453.466	D007679	Kidney Medulla
-UBERON:0001228	renal papilla	A05.810.453.466	D007679	Kidney Medulla
-UBERON:0001886	choroid plexus	A08.186.211.276.298	D002831	Choroid Plexus
-UBERON:0002129	cerebellar cortex	A08.186.211.132.810.428.200.212	D002525	Cerebellar Cortex
-UBERON:0002067	dermis	A17.815.180	D020405	Dermis
-UBERON:0003699	pubic symphysis	A02.835.583.656	D011631	Pubic Symphysis
-UBERON:0004134	proximal tubule	A05.810.453.736.560.570	D007687	Kidney Tubules, Proximal
-UBERON:0002407	pericardium	A07.541.795	D010496	Pericardium
-UBERON:0001594	azygos vein	A07.231.908.106	D001401	Azygos Vein
-UBERON:0002010	celiac nerve plexus	A08.800.050.050.150	D002447	Celiac Plexus
-UBERON:0002134	tricuspid valve	A07.541.510.893	D014261	Tricuspid Valve
-UBERON:0002099	cardiac septum	A07.541.459	D006346	Heart Septum
-UBERON:0004187	Harderian gland	A13.445	D006243	Harderian Gland
-UBERON:0001700	geniculate ganglion	A08.340.390.380	D005830	Geniculate Ganglion
-UBERON:0001800	sensory ganglion	A08.340.390	D017950	Ganglia, Sensory
-UBERON:0009472	axilla	A01.378.800.090	D001365	Axilla
-UBERON:0002162	area postrema	A08.186.211.132.810.406.286	D031608	Area Postrema
-UBERON:0003680	posterior cruciate ligament of knee joint	A02.513.514.600	D016119	Posterior Cruciate Ligament
-UBERON:0004758	salt gland	A13.811	D012491	Salt Gland
-UBERON:0000045	ganglion	A08.340	D005724	Ganglia
-UBERON:0002522	tunica media	A02.633.570.491.800	D017540	Tunica Media
-UBERON:0006724	osseus spiral lamina	A09.246.631.246.930	D013137	Spiral Lamina
-UBERON:0002297	cerumen	A12.200.147	D002571	Cerumen
-UBERON:0000033	head	A01.456	D006257	Head
-UBERON:0001646	abducens nerve	A08.800.800.120.030	D000010	Abducens Nerve
-UBERON:0002413	cervical vertebra	A02.835.232.834.151	D002574	Cervical Vertebrae
-UBERON:0001969	blood plasma	A12.207.152.693	D010949	Plasma
-UBERON:0003721	lingual nerve	A08.800.800.120.760.500.450	D008036	Lingual Nerve
-UBERON:0002223	endolymphatic sac	A09.246.631.909.957.360.701	D004712	Endolymphatic Sac
-UBERON:0008447	intertarsal joint	A02.835.583.378.831	D013640	Tarsal Joints
-UBERON:0002386	forelimb zeugopod	A01.378.800.585	D005542	Forearm
-UBERON:0001103	diaphragm	A02.633.567.900.300	D003964	Diaphragm
-UBERON:0001762	nasal concha	A02.835.232.781.324.948	D014420	Turbinates
-UBERON:0004087	vena cava	A07.231.908.949	D014684	Venae Cavae
-UBERON:0005440	ductus arteriosus	A07.541.278.395	D004373	Ductus Arteriosus
-UBERON:0002019	accessory XI nerve	A08.800.800.120.060	D000055	Accessory Nerve
-UBERON:0001017	central nervous system	A08.186	D002490	Central Nervous System
-UBERON:0001796	aqueous humor of eyeball	A09.371.060.067.070	D001082	Aqueous Humor
-UBERON:0002350	conducting system of heart	A07.541.409	D006329	Heart Conduction System
-UBERON:0001645	trigeminal nerve	A08.800.800.120.760	D014276	Trigeminal Nerve
-UBERON:0001821	sebaceous gland	A10.336.827	D012627	Sebaceous Glands
-UBERON:0002285	telencephalic ventricle	A08.186.211.276.650	D020547	Lateral Ventricles
-UBERON:0002040	bronchial artery	A07.231.114.158	D001981	Bronchial Arteries
-UBERON:0003685	cranial suture	A02.835.232.781.200	D003393	Cranial Sutures
-UBERON:0001058	mushroom body	A13.641	D024521	Mushroom Bodies
-UBERON:0009050	nucleus of solitary tract	A08.186.211.132.810.406.750	D017552	Solitary Nucleus
-UBERON:0014908	cerebellopontine angle	A08.186.211.132.810.428.200.462	D002530	Cerebellopontine Angle
-UBERON:0002501	oval window	A09.246.631.909.551	D010046	Oval Window, Ear
-UBERON:0001619	ophthalmic artery	A07.231.114.622	D009880	Ophthalmic Artery
-UBERON:0001895	metencephalon	A08.186.211.132.810.428	D020540	Metencephalon
-UBERON:0001825	paranasal sinus	A04.531.621	D010256	Paranasal Sinuses
-UBERON:0001130	vertebral column	A02.835.232.834	D013131	Spine
-UBERON:0000474	female reproductive system	A05.360.319	D005836	Genitalia, Female
-UBERON:0000946	cardial valve	A07.541.510	D006351	Heart Valves
-UBERON:0001467	shoulder	A01.378.800.750	D012782	Shoulder
-UBERON:0000010	peripheral nervous system	A08.800	D017933	Peripheral Nervous System
-UBERON:0001488	ankle joint	A02.835.583.378.062	D000843	Ankle Joint
-UBERON:0002113	kidney	A05.810.453	D007668	Kidney
-UBERON:0007108	vernix caseosa	A12.200.946	D014708	Vernix Caseosa
-UBERON:0001764	maxillary sinus	A04.531.621.578	D008443	Maxillary Sinus
-UBERON:0002481	bone tissue	A02.835.232	D001842	Bone and Bones
-UBERON:0002392	nasolacrimal duct	A09.371.463.640	D009301	Nasolacrimal Duct
-UBERON:0010207	nictitating membrane	A13.660	D009541	Nictitating Membrane
-UBERON:0003729	mouth mucosa	A10.615.550.599	D009061	Mouth Mucosa
-UBERON:0003687	foramen magnum	A02.835.232.781.572.434	D005539	Foramen Magnum
-UBERON:0002377	muscle of neck	A02.633.567.650	D009334	Neck Muscles
-UBERON:0004465	musculature of neck	A02.633.567.650	D009334	Neck Muscles
-UBERON:0002146	pulmonary valve	A07.541.510.738	D011664	Pulmonary Valve
-UBERON:0012332	broad ligament of uterus	A02.513.170	D001956	Broad Ligament
-UBERON:0000975	sternum	A02.835.232.904.766	D013249	Sternum
-UBERON:0000011	parasympathetic nervous system	A08.800.050.600	D010275	Parasympathetic Nervous System
-UBERON:0001691	external ear	A09.246.272	D004431	Ear, External
-UBERON:0005985	coronary vessel	A07.231.114.269	D003331	Coronary Vessels
-UBERON:0000315	subarachnoid space	A08.186.566.166.686	D013346	Subarachnoid Space
-UBERON:0001600	tensor tympani	A02.633.567.975	D013719	Tensor Tympani
-UBERON:0009564	distal limb integumentary appendage	A13.491	D006724	Hoof and Claw
-UBERON:0002523	tunica intima	A07.231.330.800	D017539	Tunica Intima
-UBERON:0012281	perianal sebaceous gland	A13.734	D010481	Perianal Glands
-UBERON:0002410	autonomic nervous system	A08.800.050	D001341	Autonomic Nervous System
-UBERON:0004864	vasculature of retina	A07.231.611	D012171	Retinal Vessels
-UBERON:0003501	retina blood vessel	A07.231.611	D012171	Retinal Vessels
-UBERON:0003681	masticatory muscle	A02.633.567.600	D008410	Masticatory Muscles
-UBERON:0001837	duct of salivary gland	A10.336.779.640	D018987	Salivary Ducts
-UBERON:0001232	collecting duct of renal tubule	A05.810.453.736.560.510	D007685	Kidney Tubules, Collecting
-UBERON:0000933	pharyngeal muscle	A02.633.567.800	D010609	Pharyngeal Muscles
-UBERON:0002500	zygomatic arch	A02.835.232.781.324.995	D015050	Zygoma
-UBERON:0001694	petrous part of temporal bone	A02.835.232.781.885.681	D010579	Petrous Bone
-UBERON:0011123	stifle joint	A13.473.683	D013264	Stifle
-UBERON:0002707	corticospinal tract	A08.186.854.633	D011712	Pyramidal Tracts
-UBERON:0002389	manual digit	A01.378.800.667.430	D005385	Fingers
-UBERON:0002081	cardiac atrium	A07.541.358	D006325	Heart Atria
-UBERON:0002073	hair follicle	A10.272.497.500	D018859	Hair Follicle
-UBERON:0002294	biliary system	A03.159	D001659	Biliary Tract
-UBERON:0002512	corpus luteum	A05.360.319.114.630.278	D003338	Corpus Luteum
-UBERON:0003631	pedal digit 1	A01.378.610.250.300.792.380	D006214	Hallux
-UBERON:0001544	popliteal vein	A07.231.908.641	D011152	Popliteal Vein
-UBERON:0006869	electric organ	A13.332	D004557	Electric Organ
-UBERON:0006720	pterygoid muscle	A02.633.567.600.700	D011626	Pterygoid Muscles
-UBERON:0001184	renal artery	A07.231.114.745	D012077	Renal Artery
-UBERON:0002366	bulbo-urethral gland	A05.360.444.123	D002030	Bulbourethral Glands
-UBERON:0003690	fused sacrum	A02.835.232.834.717	D012447	Sacrum
-UBERON:0002347	thoracic vertebra	A02.835.232.834.892	D013904	Thoracic Vertebrae
-UBERON:0000996	vagina	A05.360.319.779	D014621	Vagina
-UBERON:0001105	clavicle bone	A02.835.232.087.227	D002968	Clavicle
-UBERON:0002107	liver	A03.620	D008099	Liver
-UBERON:0001717	spinal nucleus of trigeminal nerve	A08.186.211.132.931.920	D014279	Trigeminal Nucleus, Spinal
-UBERON:0002439	myenteric nerve plexus	A08.800.050.050.500	D009197	Myenteric Plexus
-UBERON:0006971	antler	A13.507.288	D000999	Antlers
-UBERON:0001643	oculomotor nerve	A08.800.800.120.600	D009802	Oculomotor Nerve
-UBERON:0002185	bronchus	A04.411.125	D001980	Bronchi
-UBERON:0000966	retina	A09.371.729	D012160	Retina
-UBERON:0003948	blood-air barrier	A04.411.715.025	D015824	Blood-Air Barrier
-UBERON:0012423	layer of microvilli	A11.284.180.565	D008871	Microvilli
-UBERON:0014730	osteon	A10.165.265.507	D006253	Haversian System
-UBERON:0003708	carotid sinus	A07.231.114.186.456	D002346	Carotid Sinus
-UBERON:0002282	stria vascularis of cochlear duct	A09.246.631.246.292.876	D013316	Stria Vascularis
-UBERON:0001697	orbit of skull	A02.835.232.781.324.690	D009915	Orbit
-UBERON:0012337	cauda equina	A08.800.800.720.725.150	D002420	Cauda Equina
-UBERON:0004714	septum pellucidum	A08.186.211.276.814	D012688	Septum Pellucidum
-UBERON:0004096	odontoid process of cervical vertebra 2	A02.835.232.834.151.383.668	D009809	Odontoid Process
-UBERON:0000377	maxillary nerve	A08.800.800.120.760.550	D008442	Maxillary Nerve
-UBERON:0003682	palatal muscle	A02.633.567.750	D010156	Palatal Muscles
-UBERON:0007366	ruminant stomach	A13.869	D013279	Stomach, Ruminant
-UBERON:0001193	hepatic artery	A07.231.114.407	D006499	Hepatic Artery
-UBERON:0001470	glenohumeral joint	A02.835.583.748	D012785	Shoulder Joint
-UBERON:0004813	seminiferous tubule epithelium	A05.360.444.849.700.700	D012670	Seminiferous Epithelium
-UBERON:0001981	blood vessel	A07.231	D001808	Blood Vessels
-UBERON:0001067	vertebral arch joint	A02.835.583.979	D021801	Zygapophyseal Joint
-UBERON:0001756	middle ear	A09.246.397	D004432	Ear, Middle
-UBERON:0001710	lower jaw region	A02.835.232.781.324.502.632	D008334	Mandible
-UBERON:0001684	mandible	A02.835.232.781.324.502.632	D008334	Mandible
-UBERON:0002165	endocardium	A07.541.207	D004699	Endocardium
-UBERON:0005617	mesenteric vein	A07.231.908.670.385	D008642	Mesenteric Veins
-UBERON:0005610	iliac vein	A07.231.908.427	D007084	Iliac Vein
-UBERON:0003701	calcaneal tendon	A02.880.176	D000125	Achilles Tendon
-UBERON:0000475	organism subdivision	A01	D001829	Body Regions
-UBERON:0001860	endolymphatic duct	A09.246.631.909.957.360	D004711	Endolymphatic Duct
-UBERON:0001827	secretion of lacrimal gland	A12.200.882	D013666	Tears
-UBERON:0007365	rumen	A13.869.804	D012417	Rumen
-UBERON:0003723	vestibular nerve	A08.800.800.120.910.900	D014725	Vestibular Nerve
-UBERON:0002362	arachnoid mater	A08.186.566.166	D001099	Arachnoid
-UBERON:0034728	autonomic nerve	A08.800.050.050	D017776	Autonomic Pathways
-UBERON:0000061	anatomical structure	A13	D000825	Animal Structures
-UBERON:0001093	vertebral bone 2	A02.835.232.834.151.383	D001368	Axis
-UBERON:0001464	hip	A01.378.610.400	D006615	Hip
-UBERON:0011818	superficial fascia	A10.165.887	D040521	Subcutaneous Tissue
-UBERON:0002037	cerebellum	A08.186.211.132.810.428.200	D002531	Cerebellum
-UBERON:0002518	otolith organ	A09.246.631.909.625	D012444	Saccule and Utricle
-UBERON:0003722	middle cranial fossa	A01.456.830.165	D035301	Cranial Fossa, Middle
-UBERON:0001235	adrenal cortex	A06.407.071.140	D000302	Adrenal Cortex
-UBERON:0002382	rectus abdominis muscle	A02.633.567.050.800	D017568	Rectus Abdominis
-UBERON:0000014	zone of skin	A17.815	D012867	Skin
-UBERON:0002097	skin of body	A17.815	D012867	Skin
-UBERON:0005806	portal system	A07.231.908.670	D011168	Portal System
-UBERON:0002466	intestine secretion	A12.200.390	D007419	Intestinal Secretions
-UBERON:0004769	diaphysis	A02.835.232.169	D018483	Diaphyses
-UBERON:0001437	epiphysis	A02.835.232.251	D004838	Epiphyses
-UBERON:0007361	ruminant reticulum	A13.869.697	D012159	Reticulum
-UBERON:0001515	thoracic aorta	A07.231.114.056.372	D001013	Aorta, Thoracic
-UBERON:0003092	ultimobranchial body	A13.939	D014460	Ultimobranchial Body
-UBERON:0000344	mucosa	A10.615.550	D009092	Mucous Membrane
-UBERON:0002054	zona fasciculata of adrenal gland	A06.407.071.140.950	D015383	Zona Fasciculata
-UBERON:0001288	loop of Henle	A05.810.453.736.560.610	D008138	Loop of Henle
-UBERON:0001016	nervous system	A08	D009420	Nervous System
-UBERON:0002299	alveolus of lung	A04.411.715	D011650	Pulmonary Alveoli
-UBERON:0004288	skeleton	A02.835	D012863	Skeleton
-UBERON:0002012	pulmonary artery	A07.231.114.715	D011651	Pulmonary Artery
-UBERON:0005303	hypogastric nerve	A08.800.050.050.400	D007001	Hypogastric Plexus
-UBERON:0002371	bone marrow	A15.382.216	D001853	Bone Marrow
-UBERON:0001456	face	A01.456.505	D005145	Face
-UBERON:0001968	semen	A12.200.732	D012661	Semen
-UBERON:0003951	ocular fundus	A09.371.729.313	D005654	Fundus Oculi
-UBERON:0004727	cochlear nerve	A08.800.800.120.910.120	D003056	Cochlear Nerve
-UBERON:0010545	metatarsus skeleton	A01.378.610.250.300.480	D008684	Metatarsus
-UBERON:0001644	trochlear nerve	A08.800.800.120.800	D014321	Trochlear Nerve
-UBERON:0001771	pupil	A09.371.894.513.780	D011680	Pupil
-UBERON:0001887	internal capsule of telencephalon	A08.186.211.730.885.435	D020772	Internal Capsule
-UBERON:0005386	olfactory segment of nasal mucosa	A04.531.520.573	D009831	Olfactory Mucosa
-UBERON:0001896	medulla oblongata	A08.186.211.132.810.406	D008526	Medulla Oblongata
-UBERON:0001620	central retinal artery	A07.231.114.765	D012161	Retinal Artery
-UBERON:0007230	lateral vestibular nucleus	A08.186.211.132.810.428.600.800.800	D003689	Vestibular Nucleus, Lateral
-UBERON:0000158	membranous layer	A10.615	D008566	Membranes
-UBERON:0001492	radial nerve	A08.800.800.720.050.700	D011826	Radial Nerve
-UBERON:0002944	spinothalamic tract of medulla	A08.186.854.761	D013133	Spinothalamic Tracts
-UBERON:0000912	mucus	A12.200.503	D009093	Mucus
-UBERON:0002028	hindbrain	A08.186.211.132.810	D012249	Rhombencephalon
-UBERON:0000947	aorta	A07.231.114.056	D001011	Aorta
-UBERON:0000948	heart	A07.541	D006321	Heart
-UBERON:0008450	psoas muscle	A02.633.567.825	D016658	Psoas Muscles
-UBERON:0000074	renal glomerulus	A05.810.453.736.520	D007678	Kidney Glomerulus
-UBERON:0007610	tibial artery	A07.231.114.895	D016909	Tibial Arteries
-UBERON:0000483	epithelium	A10.272	D004848	Epithelium
-UBERON:0001072	posterior vena cava	A07.231.908.949.648	D014682	Vena Cava, Inferior
-UBERON:0001814	brachial nerve plexus	A08.800.800.720.050	D001917	Brachial Plexus
-UBERON:0001627	middle cerebral artery	A07.231.114.228.550	D020768	Middle Cerebral Artery
-UBERON:0000989	penis	A05.360.444.492	D010413	Penis
-UBERON:0003704	intrahepatic bile duct	A03.159.183.158	D001653	Bile Ducts, Intrahepatic
-UBERON:0000992	female gonad	A05.360.319.114.630	D010053	Ovary
-UBERON:0001529	brachiocephalic artery	A07.231.114.145	D016122	Brachiocephalic Trunk
-UBERON:0002053	zona glomerulosa of adrenal gland	A06.407.071.140.960	D015384	Zona Glomerulosa
-UBERON:0003957	Bruch's membrane	A09.371.894.223.250	D016570	Bruch Membrane
-UBERON:0002390	hematopoietic system	A15.378	D006413	Hematopoietic System
-UBERON:0001486	hip joint	A02.835.583.411	D006621	Hip Joint
-UBERON:0000310	breast	A01.236	D001940	Breast
-UBERON:0001031	sheath of Schwann	A08.561.600	D009441	Neurilemma
-UBERON:0002135	mitral valve	A07.541.510.507	D008943	Mitral Valve
-UBERON:0000978	leg	A01.378.610	D035002	Lower Extremity
-UBERON:0001908	optic tract	A08.612.220.860	D014795	Visual Pathways
-UBERON:0000479	tissue	A10	D014024	Tissues
-UBERON:0011319	disk of temporomandibular joint	A02.835.583.861.900	D019224	Temporomandibular Joint Disc
-UBERON:0005396	carotid artery segment	A07.231.114.186	D002339	Carotid Arteries
-UBERON:0002353	atrioventricular bundle	A07.541.409.273	D002036	Bundle of His
-UBERON:0007318	saphenous vein	A07.231.908.819	D012501	Saphenous Vein
-UBERON:0000460	major vestibular gland	A05.360.319.887.220	D001472	Bartholin's Glands
-UBERON:0002378	muscle of abdomen	A02.633.567.050	D000009	Abdominal Muscles
-UBERON:0003700	temporomandibular joint	A02.835.583.861	D013704	Temporomandibular Joint
-UBERON:0003725	cervical plexus	A08.800.800.720.150	D002572	Cervical Plexus
-UBERON:0002517	basicranium	A01.456.830	D019291	Skull Base
-UBERON:0006849	scapula	A02.835.232.087.783	D012540	Scapula
-UBERON:0001011	hemolymph	A13.453	D006458	Hemolymph
-UBERON:0002286	third ventricle	A08.186.211.276.840	D020542	Third Ventricle
-UBERON:0001914	colostrum	A12.200.194	D003126	Colostrum
-UBERON:0000365	urothelium	A10.272.850	D019459	Urothelium
-UBERON:0005910	transitional epithelium	A10.272.850	D019459	Urothelium
-UBERON:0000086	zona pellucida	A05.360.490.690.950	D015044	Zona Pellucida
-UBERON:0000959	optic chiasma	A08.800.800.120.680.600	D009897	Optic Chiasm
-UBERON:0003703	extrahepatic bile duct	A03.159.183.079	D017734	Bile Ducts, Extrahepatic
-UBERON:0001910	medial forebrain bundle	A08.612.492	D008474	Medial Forebrain Bundle
-UBERON:0001174	common bile duct	A03.159.183.079.300	D003135	Common Bile Duct
-UBERON:0001346	vaginal hymen	A05.360.319.779.479	D006924	Hymen
-UBERON:0001840	semicircular canal	A09.246.631.663	D012665	Semicircular Canals
-UBERON:0002450	decidua	A05.360.319.679.490.373	D003656	Decidua
-UBERON:0001394	axillary artery	A07.231.114.085	D001366	Axillary Artery
-UBERON:0004711	jugular vein	A07.231.908.498	D007601	Jugular Veins
-UBERON:0001836	saliva	A12.200.666	D012463	Saliva
-UBERON:0002030	nipple	A01.236.500	D009558	Nipples
-UBERON:0007357	proventriculus	A13.853.710	D011531	Proventriculus
-UBERON:0001705	nail	A17.600	D009262	Nails
-UBERON:0002046	thyroid gland	A06.407.900	D013961	Thyroid Gland
-UBERON:0005052	gizzard	A13.853.363	D005895	Gizzard
-UBERON:0001815	lumbosacral nerve plexus	A08.800.800.720.450	D008160	Lumbosacral Plexus
-UBERON:0000029	lymph node	A15.382.520.604.412	D008198	Lymph Nodes
-UBERON:0013691	buttock	A01.378.610.100	D002081	Buttocks
-UBERON:0001194	splenic artery	A07.231.114.814	D013157	Splenic Artery
-UBERON:0002082	cardiac ventricle	A07.541.560	D006352	Heart Ventricles
-UBERON:0001723	tongue	A14.549.885	D014059	Tongue
-UBERON:0000482	basal lamina of epithelium	A10.272.220	D001485	Basement Membrane
-UBERON:0000013	sympathetic nervous system	A08.800.050.800	D013564	Sympathetic Nervous System
-UBERON:0000403	scalp	A01.456.810	D012535	Scalp
-UBERON:0001487	pes joint	A02.835.583.378	D033023	Foot Joints
-UBERON:0000423	eccrine sweat gland	A10.336.899.480	D004439	Eccrine Glands
-UBERON:0001579	olfactory nerve	A08.800.800.120.640	D009832	Olfactory Nerve
-UBERON:0005609	iliac artery	A07.231.114.444	D007083	Iliac Artery
-UBERON:0003689	sella turcica	A02.835.232.781.802.662	D012658	Sella Turcica
-UBERON:0001980	arteriole	A07.231.114.060	D001160	Arterioles
-UBERON:0001070	external carotid artery	A07.231.114.186.200.210	D002342	Carotid Artery, External
-UBERON:0001516	abdominal aorta	A07.231.114.056.205	D001012	Aorta, Abdominal
-UBERON:0002367	prostate gland	A05.360.444.575	D011467	Prostate
-UBERON:0001866	sebum	A12.200.702	D012629	Sebum
-UBERON:0001785	cranial nerve	A08.800.800.120	D003391	Cranial Nerves
-UBERON:0007721	interphalangeal joint of pes	A02.835.583.378.900	D014033	Toe Joint
-UBERON:0001143	hepatic vein	A07.231.908.380	D006503	Hepatic Veins
-UBERON:0002673	vestibular nuclear complex	A08.186.211.132.810.428.600.800	D014726	Vestibular Nuclei
-UBERON:0000922	embryo	A16.254	D004622	Embryo, Mammalian
-UBERON:0001343	seminiferous tubule of testis	A05.360.444.849.700	D012671	Seminiferous Tubules
-UBERON:0002441	cervicothoracic ganglion	A08.340.315.350.800	D013233	Stellate Ganglion
-UBERON:0004452	carpal region	A01.378.800.667.715	D014953	Wrist
-UBERON:0001971	gastric juice	A12.200.307	D005750	Gastric Juice
-UBERON:0001365	sacro-iliac joint	A02.835.583.707	D012446	Sacroiliac Joint
-UBERON:0007311	sputum	A12.200.808	D013183	Sputum
-UBERON:0001759	vagus nerve	A08.800.050.050.925	D014630	Vagus Nerve
-UBERON:0000964	cornea	A09.371.060.217	D003315	Cornea
-UBERON:0003686	tooth socket	A02.835.232.781.324.502.125.800	D020390	Tooth Socket
-UBERON:0011252	scent gland	A13.820	D012543	Scent Glands
-UBERON:0001891	midbrain	A08.186.211.132.659	D008636	Mesencephalon
-UBERON:0001677	sphenoid bone	A02.835.232.781.802	D013100	Sphenoid Bone
-UBERON:0003129	skull	A02.835.232.781	D012886	Skull
-UBERON:0002050	embryonic structure	A16	D004628	Embryonic Structures
-UBERON:0001490	elbow joint	A02.835.583.290	D004551	Elbow Joint
-UBERON:0013196	strand of wool	A13.970	D014935	Wool
-UBERON:0003959	rete testis	A05.360.444.849.600	D012152	Rete Testis
-UBERON:0000054	macula	A09.246.631.909.625.125	D008267	Acoustic Maculae
-UBERON:0002411	clitoris	A05.360.319.887.436	D002987	Clitoris
-UBERON:0001267	femoral nerve	A08.800.800.720.450.250	D005267	Femoral Nerve
-UBERON:0000209	tetrapod frontal bone	A02.835.232.781.375	D005624	Frontal Bone
-UBERON:0001736	submandibular gland	A10.336.779.812	D013363	Submandibular Gland
-UBERON:0001708	jaw skeleton	A02.835.232.781.324.502	D007568	Jaw
-UBERON:0001182	superior mesenteric artery	A07.231.114.565.755	D017538	Mesenteric Artery, Superior
-UBERON:0002240	spinal cord	A08.186.854	D013116	Spinal Cord
-UBERON:0002486	glottis	A04.329.364	D005931	Glottis
-UBERON:0001283	bile canaliculus	A03.159.183.158.125	D001648	Bile Canaliculi
-UBERON:0000043	tendon	A02.880	D013710	Tendons
-UBERON:0002422	fourth ventricle	A08.186.211.276.500	D020546	Fourth Ventricle
-UBERON:0000007	pituitary gland	A06.407.747	D010902	Pituitary Gland
-UBERON:0005413	spinocerebellar tract	A08.612.220.725	D020824	Spinocerebellar Tracts
-UBERON:0001404	radial artery	A07.231.114.740	D017534	Radial Artery
-UBERON:0000941	cranial nerve II	A08.800.800.120.680	D009900	Optic Nerve
-UBERON:0003706	laryngeal vocal fold	A04.329.364.737	D014827	Vocal Cords
-UBERON:0006761	corneo-scleral junction	A09.371.060.217.659	D016850	Limbus Corneae
-UBERON:0000323	late embryo	A16.378	D005333	Fetus
-UBERON:0001772	corneal epithelium	A09.371.060.217.325	D019573	Epithelium, Corneal
-UBERON:0000949	endocrine system	A06	D004703	Endocrine System
-UBERON:0002075	viscus	A01.960	D014781	Viscera
-UBERON:0000970	eye	A01.456.505.420	D005123	Eye
-UBERON:0001733	soft palate	A14.549.617.780	D010160	Palate, Soft
-UBERON:0001707	nasal cavity	A04.531.449	D009296	Nasal Cavity
-UBERON:0002016	pulmonary vein	A07.231.908.713	D011667	Pulmonary Veins
-UBERON:0004449	cerebral artery	A07.231.114.228	D002536	Cerebral Arteries
-UBERON:0009623	spinal nerve root	A08.800.800.720.725	D013126	Spinal Nerve Roots
-UBERON:0000347	myelin sheath	A08.637.600.500	D009186	Myelin Sheath
-UBERON:0003692	acromioclavicular joint	A02.835.583.032	D000173	Acromioclavicular Joint
-UBERON:0006314	bodily fluid	A12.207	D001826	Body Fluids
-UBERON:0002130	cerebellar nuclear complex	A08.186.211.132.810.428.200.337	D002529	Cerebellar Nuclei
-UBERON:0001530	common carotid artery plus branches	A07.231.114.186.200	D017536	Carotid Artery, Common
-UBERON:0001008	renal system	A05.810	D014551	Urinary Tract
-UBERON:0000004	olfactory apparatus	A01.456.505.733	D009666	Nose
-UBERON:0003727	intercostal nerve	A08.800.800.720.800.350	D007367	Intercostal Nerves
-UBERON:0000974	neck	A01.598	D009333	Neck
-UBERON:0002349	myocardium	A02.633.580	D009206	Myocardium
-UBERON:0001300	scrotum	A05.360.444.661	D012611	Scrotum
-UBERON:0002394	bile duct	A03.159.183	D001652	Bile Ducts
-UBERON:0034931	perforant path	A08.612.600	D019580	Perforant Pathway
-UBERON:0001132	parathyroid gland	A06.407.560	D010280	Parathyroid Glands
-UBERON:0006531	oculomotor muscle	A02.633.567.700	D009801	Oculomotor Muscles
-UBERON:0001773	sclera	A09.371.784	D012590	Sclera
-UBERON:0000985	axillary vein	A07.231.908.077	D001367	Axillary Vein
-UBERON:0001140	renal vein	A07.231.908.752	D012082	Renal Veins
-UBERON:0003670	smegma	A12.200.769	D012902	Smegma
-UBERON:0001805	autonomic ganglion	A08.340.315	D005725	Ganglia, Autonomic
-UBERON:0002279	vestibular aqueduct	A09.246.631.909.957	D014723	Vestibular Aqueduct
-UBERON:0001225	cortex of kidney	A05.810.453.324	D007672	Kidney Cortex
-UBERON:0002042	lymphatic vessel endothelium	A10.272.491.332	D004729	Endothelium, Lymphatic
-UBERON:0001689	malleus bone	A09.246.397.247.524	D008307	Malleus
-UBERON:0001585	anterior vena cava	A07.231.908.949.815	D014683	Vena Cava, Superior
-UBERON:0001054	Malpighian tubule	A13.574	D008317	Malpighian Tubules
-UBERON:0009060	air sac	A13.048	D000400	Air Sacs
-UBERON:0001568	muscle of larynx	A02.633.567.500	D007821	Laryngeal Muscles
-UBERON:0004478	musculature of larynx	A02.633.567.500	D007821	Laryngeal Muscles
-UBERON:0002925	trigeminal nucleus	A08.186.211.132.931	D014278	Trigeminal Nuclei
-UBERON:0000023	wing	A13.395.823	D014921	Wing
-UBERON:0003724	musculocutaneous nerve	A08.800.800.720.050.540	D009138	Musculocutaneous Nerve
-UBERON:0002365	exocrine gland	A10.336	D005088	Exocrine Glands
-UBERON:0002066	umbilical vein	A07.231.908.670.874	D014471	Umbilical Veins
-UBERON:0001777	substantia propria of cornea	A09.371.060.217.228	D003319	Corneal Stroma
-UBERON:0000326	pancreatic juice	A12.200.567	D010189	Pancreatic Juice
-UBERON:0008962	forelimb bone	A02.835.232.087	D001133	Bones of Upper Extremity
-UBERON:0003216	hard palate	A02.835.232.781.324.502.660	D021362	Palate, Hard
-UBERON:0001000	vas deferens	A05.360.444.930	D014649	Vas Deferens
-UBERON:0001322	sciatic nerve	A08.800.800.720.450.760	D012584	Sciatic Nerve
-UBERON:0000993	oviduct	A13.706	D010057	Oviducts
-UBERON:0000173	amniotic fluid	A12.098	D000653	Amniotic Fluid
-UBERON:0002502	round window of inner ear	A09.246.631.246.814	D012405	Round Window, Ear
-UBERON:0002060	femoral artery	A07.231.114.351	D005263	Femoral Artery
-UBERON:0004785	respiratory system mucosa	A04.760	D020545	Respiratory Mucosa
-UBERON:0005363	inferior vagus X ganglion	A08.340.390.550	D009620	Nodose Ganglion
-UBERON:0003691	epidural space	A02.835.232.834.803.350	D004824	Epidural Space
-UBERON:0003683	rotator cuff	A02.633.567.912	D017006	Rotator Cuff
-UBERON:0000020	sense organ	A09	D012679	Sense Organs
-UBERON:0014892	skeletal muscle organ	A02.633.567	D018482	Muscle, Skeletal
-UBERON:0003676	patellar ligament	A02.513.514.475	D017847	Patellar Ligament
-UBERON:0012168	umbilical cord blood	A12.207.152.200	D005312	Fetal Blood
-UBERON:0003710	vasa vasorum	A07.231.836	D014651	Vasa Vasorum
-UBERON:0002351	sinoatrial node	A07.541.409.819	D012849	Sinoatrial Node
-UBERON:0002405	immune system	A15.382	D007107	Immune System
-UBERON:0010163	eyebrow	A01.456.505.420.338	D005138	Eyebrows
-UBERON:0001310	umbilical artery	A07.231.114.929	D014469	Umbilical Arteries
-UBERON:0001089	sweat	A12.200.849	D013542	Sweat
-UBERON:0001148	median nerve	A08.800.800.720.050.500	D008475	Median Nerve
-UBERON:0001004	respiratory system	A04	D012137	Respiratory System
-UBERON:0001768	uvea	A09.371.894	D014602	Uvea
-UBERON:0000363	reticuloendothelial system	A15.382.812	D012157	Mononuclear Phagocyte System
-UBERON:0006558	lymphatic part of lymphoid system	A15.382.520	D008208	Lymphatic System
-UBERON:0001884	phrenic nerve	A08.800.800.720.150.700	D010791	Phrenic Nerve
-UBERON:0003668	synovial bursa	A02.835.583.156	D002061	Bursa, Synovial
-UBERON:0002017	portal vein	A07.231.908.670.567	D011169	Portal Vein
-UBERON:0003822	forelimb stylopod	A01.378.800.075	D001132	Arm
-UBERON:0003903	bursa of Fabricius	A13.163	D002060	Bursa of Fabricius
-UBERON:0003889	fallopian tube	A05.360.319.114.373	D005187	Fallopian Tubes
-UBERON:0005236	osseus labyrinth vestibule	A09.246.631.909	D014722	Vestibule, Labyrinth
-UBERON:0007795	ascitic fluid	A12.207.119	D001202	Ascitic Fluid
-UBERON:0001237	paraaortic body	A06.224.636	D010220	Para-Aortic Bodies
-UBERON:0001830	minor salivary gland	A10.336.779.650	D012470	Salivary Glands, Minor
-UBERON:0001088	urine	A12.207.927	D014556	Urine
-UBERON:0008199	chin	A01.456.505.259	D002680	Chin
-UBERON:0002363	dura mater	A08.186.566.395	D004388	Dura Mater
-UBERON:0001776	optic choroid	A09.371.894.223	D002829	Choroid
-UBERON:0000210	tetrapod parietal bone	A02.835.232.781.651	D010294	Parietal Bone
-UBERON:0000995	uterus	A05.360.319.679	D014599	Uterus
-UBERON:0003679	mouth floor	A14.549.441	D009060	Mouth Floor
-UBERON:0001532	internal carotid artery	A07.231.114.186.200.230	D002343	Carotid Artery, Internal
-UBERON:0003133	reproductive organ	A05.360	D005835	Genitalia
-UBERON:0002741	diagonal band of Broca	A08.186.211.730.885.380	D020667	Diagonal Band of Broca
-UBERON:0000038	follicular fluid	A05.360.319.114.630.535.150	D015571	Follicular Fluid
-UBERON:0002494	papillary muscle of heart	A02.633.580.680	D010210	Papillary Muscles
-UBERON:0003720	anterior cranial fossa	A01.456.830.150	D035262	Cranial Fossa, Anterior
-UBERON:0002354	purkinje fiber	A07.541.409.683	D011690	Purkinje Fibers
-UBERON:0001057	corpus allatum	A08.713.100	D003335	Corpora Allata
-UBERON:0001597	masseter muscle	A02.633.567.600.500	D008406	Masseter Muscle
-UBERON:0000376	hindlimb stylopod	A01.378.610.750	D013848	Thigh
-UBERON:0002204	musculoskeletal system	A02	D009141	Musculoskeletal System
-UBERON:0010754	germinal center	A10.549.250	D018858	Germinal Center
-UBERON:0001495	pectoral muscle	A02.633.567.775	D010369	Pectoralis Muscles
-UBERON:0002606	neuropil	A08.637.500	D019581	Neuropil
-UBERON:0002110	gall bladder	A03.159.439	D005704	Gallbladder
-UBERON:0001007	digestive system	A03	D004064	Digestive System
-UBERON:0002103	hindlimb	A13.473	D006614	Hindlimb
-UBERON:0002418	cartilage tissue	A02.165	D002356	Cartilage
-UBERON:0001864	scala tympani	A09.246.631.246.848	D012533	Scala Tympani
-UBERON:0000998	seminal vesicle	A05.360.444.713	D012669	Seminal Vesicles
-UBERON:0004535	cardiovascular system	A07	D002319	Cardiovascular System
-UBERON:0001734	palatine uvula	A14.549.617.780.729	D014609	Uvula
-UBERON:0000988	pons	A08.186.211.132.810.428.600	D011149	Pons
-UBERON:0001637	artery	A07.231.114	D001158	Arteries
-UBERON:0004135	distal tubule	A05.810.453.736.560.540	D007686	Kidney Tubules, Distal
-UBERON:0001285	nephron	A05.810.453.736	D009399	Nephrons
-UBERON:0000079	male reproductive system	A05.360.444	D005837	Genitalia, Male
-UBERON:0008200	forehead	A01.456.505.580	D005546	Forehead
-UBERON:0006725	spiral ligament	A09.246.631.246.965	D055493	Spiral Ligament of Cochlea
-UBERON:0002298	brainstem	A08.186.211.132	D001933	Brain Stem
-UBERON:0001029	neuromuscular junction	A08.800.550.550.550	D009469	Neuromuscular Junction
-UBERON:0008982	fascia	A02.340	D005205	Fascia
-UBERON:0000162	cloaca	A13.223	D002988	Cloaca
-UBERON:0002368	endocrine gland	A06.407	D004702	Endocrine Glands
-UBERON:0001678	temporal bone	A02.835.232.781.885	D013701	Temporal Bone
-UBERON:0010211	granulation tissue	A10.165.450	D006097	Granulation Tissue
-UBERON:0002148	locus ceruleus	A08.186.211.132.659.473	D008125	Locus Coeruleus
-UBERON:0002387	pes	A01.378.610.250	D005528	Foot
-UBERON:0002453	ethmoid sinus	A04.531.621.267	D005005	Ethmoid Sinus
-UBERON:0006967	horn	A13.507	D006733	Horns
-UBERON:0002398	manus	A01.378.800.667	D006225	Hand
-UBERON:0000955	brain	A08.186.211	D001921	Brain
-UBERON:0001675	trigeminal ganglion	A08.340.390.850	D012668	Trigeminal Ganglion
-UBERON:0001769	iris	A09.371.894.513	D007498	Iris
-UBERON:0001037	strand of hair	A17.360	D006197	Hair
-UBERON:0001013	adipose tissue	A10.165.114	D000273	Adipose Tissue
-UBERON:0001986	endothelium	A10.272.491	D004727	Endothelium
-UBERON:0008788	posterior cranial fossa	A01.456.830.200	D003388	Cranial Fossa, Posterior
-UBERON:0001833	lip	A01.456.505.631.515	D008046	Lip
-UBERON:0003671	anterior cruciate ligament of knee joint	A02.513.514.100	D016118	Anterior Cruciate Ligament
-UBERON:0000056	ureter	A05.810.776	D014513	Ureter
-UBERON:0004103	alveolar ridge	A02.835.232.781.324.502.125	D000539	Alveolar Process
-UBERON:0003673	ligamentum flavum	A02.513.514.287	D017843	Ligamentum Flavum
-UBERON:0002055	zona reticularis of adrenal gland	A06.407.071.140.970	D015385	Zona Reticularis
-UBERON:0001044	saliva-secreting gland	A10.336.779	D012469	Salivary Glands
-UBERON:0001461	elbow	A01.378.800.420	D004550	Elbow
-UBERON:0001021	nerve	A08.800.800	D010525	Peripheral Nerves
-UBERON:0001846	internal ear	A09.246.631	D007758	Ear, Inner
-UBERON:0001820	sweat gland	A10.336.899	D013545	Sweat Glands
-UBERON:0005352	spermatic cord	A05.360.444.777	D013085	Spermatic Cord
-UBERON:0001624	anterior cerebral artery	A07.231.114.228.100	D020771	Anterior Cerebral Artery
-UBERON:0001724	sphenoidal sinus	A04.531.621.827	D013101	Sphenoid Sinus
-UBERON:0001687	stapes bone	A09.246.397.247.806	D013199	Stapes
-UBERON:0001766	anterior chamber of eyeball	A09.371.060.067	D000867	Anterior Chamber
-UBERON:0000999	ejaculatory duct	A05.360.444.251	D004543	Ejaculatory Ducts
-UBERON:0003698	subtalar joint	A02.835.583.378.831.780	D013380	Subtalar Joint
-UBERON:0006517	kidney calyx	A05.810.453.537.503	D007670	Kidney Calices
-UBERON:0001463	manual digit 1	A01.378.800.667.430.705	D013933	Thumb
-UBERON:0005079	eggshell	A13.316	D004528	Egg Shell
-UBERON:0001599	stapedius muscle	A02.633.567.950	D013198	Stapedius
-UBERON:0001663	cerebral vein	A07.231.908.155	D002550	Cerebral Veins
-UBERON:0001295	endometrium	A05.360.319.679.490	D004717	Endometrium
-UBERON:0008897	fin	A13.077	D058500	Animal Fins
-UBERON:0000316	cervical mucus	A12.200.503.339	D002582	Cervix Mucus
-UBERON:0015875	heel	A01.378.610.250.510	D006365	Heel
-UBERON:0001650	hypoglossal nerve	A08.800.800.120.330	D007002	Hypoglossal Nerve
-UBERON:0001783	optic disc	A08.800.800.120.680.660	D009898	Optic Disk
-UBERON:0002250	popliteal artery	A07.231.114.681	D011150	Popliteal Artery
-UBERON:0000165	mouth	A01.456.505.631	D009055	Mouth
-UBERON:0001831	parotid gland	A10.336.779.464	D010306	Parotid Gland
-UBERON:0004852	cardiovascular system endothelium	A07.231.330	D004730	Endothelium, Vascular
-UBERON:0001633	basilar artery	A07.231.114.106	D001488	Basilar Artery
-UBERON:0001175	common hepatic duct	A03.159.183.079.600	D006500	Hepatic Duct, Common
-UBERON:0001985	corneal endothelium	A09.371.060.067.318	D004728	Endothelium, Corneal
-UBERON:0001296	myometrium	A02.633.570.500	D009215	Myometrium
-UBERON:0007358	abomasum	A13.869.106	D000018	Abomasum
-UBERON:0003917	arthropod fat body	A13.365	D005216	Fat Body
-UBERON:0000002	uterine cervix	A05.360.319.679.256	D002584	Cervix Uteri
-UBERON:0001352	external acoustic meatus	A09.246.272.396	D004424	Ear Canal
-UBERON:0003696	metatarsophalangeal joint	A02.835.583.378.531	D008683	Metatarsophalangeal Joint
-UBERON:0001679	ethmoid bone	A02.835.232.781.292	D005004	Ethmoid Bone
-UBERON:0001494	ulnar nerve	A08.800.800.720.050.850	D014459	Ulnar Nerve
-UBERON:0001676	occipital bone	A02.835.232.781.572	D009777	Occipital Bone
-UBERON:0002385	muscle tissue	A02.633	D009132	Muscles
-UBERON:0001587	subclavian vein	A07.231.908.877	D013350	Subclavian Vein
-UBERON:0000042	serous membrane	A10.615.789	D012704	Serous Membrane
-UBERON:0001890	forebrain	A08.186.211.730	D016548	Prosencephalon
-UBERON:0001533	subclavian artery	A07.231.114.839	D013348	Subclavian Artery
-UBERON:0001636	posterior cerebral artery	A07.231.114.228.700	D020769	Posterior Cerebral Artery
-UBERON:0001818	tarsal gland	A09.371.337.614	D008537	Meibomian Glands
-UBERON:0002018	synovial membrane of synovial joint	A02.835.583.443.800	D013583	Synovial Membrane
-UBERON:0004086	brain ventricle	A08.186.211.276	D002552	Cerebral Ventricles
-UBERON:0000006	islet of Langerhans	A03.734.414	D007515	Islets of Langerhans
-UBERON:0002416	integumental system	A17	D034582	Integumentary System
-UBERON:0001350	coccyx	A02.835.232.834.229	D003050	Coccyx
-UBERON:0001737	larynx	A04.329	D007830	Larynx
-UBERON:0000057	urethra	A05.360.444.492.726	D014521	Urethra
-UBERON:0001406	ulnar artery	A07.231.114.920	D017535	Ulnar Artery
-UBERON:0002866	caudal part of spinal trigeminal nucleus	A08.186.211.132.931.920.927	D014275	Trigeminal Caudal Nucleus
-UBERON:0002414	lumbar vertebra	A02.835.232.834.519	D008159	Lumbar Vertebrae
-UBERON:0001567	cheek	A01.456.505.173	D002610	Cheek
-UBERON:0001647	facial nerve	A08.800.800.120.250	D005154	Facial Nerve
-UBERON:0001231	nephron tubule	A05.810.453.736.560	D007684	Kidney Tubules
-UBERON:0002102	forelimb	A13.395	D005552	Forelimb
-UBERON:0001111	intercostal muscle	A02.633.567.900.500	D007366	Intercostal Muscles
-UBERON:0005465	obturator nerve	A08.800.800.720.450.600	D009776	Obturator Nerve
+uberon_id	uberon_name	mesh_tree_number	in_human	mesh_id	mesh_name
+UBERON:0001577	facial muscle	A02.633.567.400	1	D005152	Facial Muscles
+UBERON:0001681	nasal bone	A02.835.232.781.324.665	1	D009295	Nasal Bone
+UBERON:0001264	pancreas	A03.734	1	D010179	Pancreas
+UBERON:0002356	perineum	A01.719	1	D010502	Perineum
+UBERON:0001688	incus bone	A09.246.397.247.362	1	D007188	Incus
+UBERON:0010074	chromaffin system	A06.224	1	D002838	Chromaffin System
+UBERON:0004019	baroreceptor	A08.800.050.800.900.700	1	D011311	Pressoreceptors
+UBERON:0001283	bile canaliculus	A03.159.183.158.125	1	D001648	Bile Canaliculi
+UBERON:0001648	vestibulocochlear nerve	A08.800.800.120.910	1	D000159	Vestibulocochlear Nerve
+UBERON:0001224	renal pelvis	A05.810.453.537	1	D007682	Kidney Pelvis
+UBERON:0006349	epigastric artery	A07.231.114.330	1	D019074	Epigastric Arteries
+UBERON:0004237	blood vessel smooth muscle	A02.633.570.491	1	D009131	Muscle, Smooth, Vascular
+UBERON:0006378	strand of vibrissa hair	A13.950	0	D014738	Vibrissae
+UBERON:0001638	vein	A07.231.908	1	D014680	Veins
+UBERON:0003474	meningeal artery	A07.231.114.545	1	D008576	Meningeal Arteries
+UBERON:0000054	macula	A09.246.631.909.625.125	1	D008267	Acoustic Maculae
+UBERON:0007623	comb and wattle	A13.242	0	D003129	Comb and Wattles
+UBERON:0001716	secondary palate	A14.521.658	1	D010159	Palate
+UBERON:0000375	mandibular nerve	A08.800.800.120.760.500	1	D008340	Mandibular Nerve
+UBERON:0001776	optic choroid	A09.371.894.223	1	D002829	Choroid
+UBERON:0002497	acromion	A02.835.232.087.783.261	1	D000174	Acromion
+UBERON:0003711	brachiocephalic vein	A07.231.908.130	1	D016121	Brachiocephalic Veins
+UBERON:0000997	mammalian vulva	A05.360.319.887	1	D014844	Vulva
+UBERON:0000053	macula lutea	A09.371.729.522	1	D008266	Macula Lutea
+UBERON:0003687	foramen magnum	A02.835.232.781.572.434	1	D005539	Foramen Magnum
+UBERON:0002137	aortic valve	A07.541.510.110	1	D001021	Aortic Valve
+UBERON:0006856	interrenal gland	A13.530	0	D007401	Interrenal Gland
+UBERON:0000475	organism subdivision	A01	1	D001829	Body Regions
+UBERON:0001361	femoral vein	A07.231.908.314	1	D005268	Femoral Vein
+UBERON:0003126	trachea	A04.889	1	D014132	Trachea
+UBERON:0007780	exudate	A12.383	0	D005122	Exudates and Transudates
+UBERON:0007779	transduate	A12.383	1	D005122	Exudates and Transudates
+UBERON:0000211	ligament	A02.513	1	D008022	Ligaments
+UBERON:0003709	circle of Willis	A07.231.114.228.351	1	D002941	Circle of Willis
+UBERON:0001003	skin epidermis	A10.272.497	1	D004817	Epidermis
+UBERON:0004367	Descemet's membrane	A09.371.060.217.271	1	D003886	Descemet Membrane
+UBERON:0000473	testis	A05.360.444.849	1	D013737	Testis
+UBERON:0000395	cochlear ganglion	A08.340.390.800	1	D013136	Spiral Ganglion
+UBERON:0007625	pigment epithelium of eye	A09.371.670	1	D010857	Pigment Epithelium of Eye
+UBERON:0000991	gonad	A05.360.576	1	D006066	Gonads
+UBERON:0002415	tail	A13.895	0	D013623	Tail
+UBERON:0002361	pia mater	A08.186.566.731	1	D010841	Pia Mater
+UBERON:0002521	elastic tissue	A10.165.400	1	D004547	Elastic Tissue
+UBERON:0001690	ear	A01.456.313	1	D004423	Ear
+UBERON:0002226	basilar membrane of cochlea	A09.246.631.246.125	1	D001489	Basilar Membrane
+UBERON:0000022	feather	A13.370	0	D005241	Feathers
+UBERON:0000080	mesonephros	A16.254.500	1	D001755	Blastocyst
+UBERON:0001824	mucosa of larynx	A04.329.597	1	D007820	Laryngeal Mucosa
+UBERON:0001708	jaw skeleton	A02.835.232.781.324.502	1	D007568	Jaw
+UBERON:0000959	optic chiasma	A08.800.800.120.680.600	1	D009897	Optic Chiasm
+UBERON:0000975	sternum	A02.835.232.904.766	1	D013249	Sternum
+UBERON:0001484	articular capsule	A02.835.583.443	1	D017746	Joint Capsule
+UBERON:0001860	endolymphatic duct	A09.246.631.909.957.360	1	D004711	Endolymphatic Duct
+UBERON:0005994	chorda tendineae	A07.541.510.240	1	D002815	Chordae Tendineae
+UBERON:0000348	ophthalmic nerve	A08.800.800.120.760.650	1	D009882	Ophthalmic Nerve
+UBERON:0002275	reticular formation	A08.186.211.132.772	1	D012154	Reticular Formation
+UBERON:0003714	neural tissue	A08.561	1	D009417	Nerve Tissue
+UBERON:0002360	meninx	A08.186.566	1	D008578	Meninges
+UBERON:0001691	external ear	A09.246.272	1	D004431	Ear, External
+UBERON:0003715	splanchnic nerve	A08.800.050.050.800	1	D013153	Splanchnic Nerves
+UBERON:0003720	anterior cranial fossa	A01.456.830.150	1	D035262	Cranial Fossa, Anterior
+UBERON:0001760	frontal sinus	A04.531.621.387	1	D005626	Frontal Sinus
+UBERON:0001968	semen	A12.200.732	1	D012661	Semen
+UBERON:0000026	appendage	A01.378	1	D005121	Extremities
+UBERON:0001832	sublingual gland	A10.336.779.687	1	D013361	Sublingual Gland
+UBERON:0001750	lacrimal apparatus	A09.371.463	1	D007765	Lacrimal Apparatus
+UBERON:0001801	anterior segment of eyeball	A09.371.060	1	D000869	Anterior Eye Segment
+UBERON:0000178	blood	A12.207.152	1	D001769	Blood
+UBERON:0001090	synovial fluid	A02.835.583.443.800.800	1	D013582	Synovial Fluid
+UBERON:0001814	brachial nerve plexus	A08.800.800.720.050	1	D001917	Brachial Plexus
+UBERON:0002205	manubrium of sternum	A02.835.232.904.766.442	1	D008371	Manubrium
+UBERON:0003712	cavernous sinus	A07.231.908.224.334	1	D002426	Cavernous Sinus
+UBERON:0001305	ovarian follicle	A05.360.319.114.630.535	1	D006080	Ovarian Follicle
+UBERON:0003716	recurrent laryngeal nerve	A08.800.050.050.925.450.700	1	D012009	Recurrent Laryngeal Nerve
+UBERON:0001535	vertebral artery	A07.231.114.955	1	D014711	Vertebral Artery
+UBERON:0002352	atrioventricular node	A07.541.409.147	1	D001283	Atrioventricular Node
+UBERON:0001711	eyelid	A01.456.505.420.504	1	D005143	Eyelids
+UBERON:0001064	ventral pancreatic duct	A03.734.667	1	D010183	Pancreatic Ducts
+UBERON:0001465	knee	A01.378.610.450	1	D007717	Knee
+UBERON:0001911	mammary gland	A10.336.482	1	D008321	Mammary Glands, Animal
+UBERON:0001702	eyelash	A01.456.505.420.504.421	1	D005140	Eyelashes
+UBERON:0001182	superior mesenteric artery	A07.231.114.565.755	1	D017538	Mesenteric Artery, Superior
+UBERON:0001324	common fibular nerve	A08.800.800.720.450.760.640	1	D010543	Peroneal Nerve
+UBERON:0003473	thoracic cavity artery	A07.231.114.891	0	D013895	Thoracic Arteries
+UBERON:0001844	cochlea	A09.246.631.246	1	D003051	Cochlea
+UBERON:0000315	subarachnoid space	A08.186.566.166.686	1	D013346	Subarachnoid Space
+UBERON:0003726	thoracic nerve	A08.800.800.720.800	1	D013900	Thoracic Nerves
+UBERON:0003824	nerve of thoracic segment	A08.800.800.720.800	1	D013900	Thoracic Nerves
+UBERON:0002515	periosteum	A10.165.265.746	1	D010521	Periosteum
+UBERON:0001132	parathyroid gland	A06.407.560	1	D010280	Parathyroid Glands
+UBERON:0002535	gill	A13.421	0	D005880	Gills
+UBERON:0001640	celiac artery	A07.231.114.207	1	D002445	Celiac Artery
+UBERON:0001775	ciliary body	A09.371.894.280	1	D002924	Ciliary Body
+UBERON:0005616	mesenteric artery	A07.231.114.565	1	D008638	Mesenteric Arteries
+UBERON:0001469	sternoclavicular joint	A02.835.583.781	1	D013247	Sternoclavicular Joint
+UBERON:0007113	venom	A12.200.935	0	D014688	Venoms
+UBERON:0005969	eye trabecular meshwork	A09.371.060.932	1	D014129	Trabecular Meshwork
+UBERON:0001348	brown adipose tissue	A10.165.114.322	1	D002001	Adipose Tissue, Brown
+UBERON:0003700	temporomandibular joint	A02.835.583.861	1	D013704	Temporomandibular Joint
+UBERON:0001744	lymphoid tissue	A10.549	1	D008221	Lymphoid Tissue
+UBERON:0010754	germinal center	A10.549.250	0	D018858	Germinal Center
+UBERON:0002410	autonomic nervous system	A08.800.050	1	D001341	Autonomic Nervous System
+UBERON:0001970	bile	A12.200.087	1	D001646	Bile
+UBERON:0007366	ruminant stomach	A13.869	0	D013279	Stomach, Ruminant
+UBERON:0002303	juxtaglomerular apparatus	A05.810.453.736.520.520	1	D007606	Juxtaglomerular Apparatus
+UBERON:0001398	brachial artery	A07.231.114.139	1	D001916	Brachial Artery
+UBERON:0001323	tibial nerve	A08.800.800.720.450.760.820	1	D013979	Tibial Nerve
+UBERON:0004657	mandible condylar process	A02.835.232.781.324.502.632.600	1	D008335	Mandibular Condyle
+UBERON:0002369	adrenal gland	A06.407.071	1	D000311	Adrenal Glands
+UBERON:0015875	heel	A01.378.610.250.510	1	D006365	Heel
+UBERON:0002110	gall bladder	A03.159.439	1	D005704	Gallbladder
+UBERON:0001479	sesamoid bone	A02.835.232.730	1	D012716	Sesamoid Bones
+UBERON:0002397	maxilla	A02.835.232.781.324.502.645	1	D008437	Maxilla
+UBERON:0002516	epiphyseal plate	A02.835.232.251.352	1	D006132	Growth Plate
+UBERON:0008978	anal sac	A13.073	0	D000695	Anal Sacs
+UBERON:0000982	skeletal joint	A02.835.583	1	D007596	Joints
+UBERON:0000977	pleura	A04.716	1	D010994	Pleura
+UBERON:0001135	smooth muscle tissue	A02.633.570	1	D009130	Muscle, Smooth
+UBERON:0005304	submucous nerve plexus	A08.800.050.050.850	1	D013368	Submucous Plexus
+UBERON:0001733	soft palate	A14.549.617.780	1	D010160	Palate, Soft
+UBERON:0001989	superior cervical ganglion	A08.340.315.350.850	1	D017783	Superior Cervical Ganglion
+UBERON:0001649	glossopharyngeal nerve	A08.800.800.120.290	1	D005930	Glossopharyngeal Nerve
+UBERON:0002384	connective tissue	A10.165	1	D003238	Connective Tissue
+UBERON:0001673	central retinal vein	A07.231.611.773	1	D012169	Retinal Vein
+UBERON:0001685	hyoid bone	A02.835.232.409	1	D006928	Hyoid Bone
+UBERON:0004122	genitourinary system	A05	1	D014566	Urogenital System
+UBERON:0001632	temporal artery	A07.231.114.228.868	1	D013699	Temporal Arteries
+UBERON:0003823	hindlimb zeugopod	A01.378.610.500	1	D007866	Leg
+UBERON:0001598	temporalis muscle	A02.633.567.600.850	1	D013703	Temporal Muscle
+UBERON:0003694	atlanto-axial joint	A02.835.583.097	1	D001268	Atlanto-Axial Joint
+UBERON:0001998	sternocostal joint	A02.835.583.790	1	D013248	Sternocostal Joints
+UBERON:0003669	fascia lata	A02.340.424	1	D005206	Fascia Lata
+UBERON:0000456	bodily secretion	A12.200	1	D012634	Bodily Secretions
+UBERON:0001980	arteriole	A07.231.114.060	1	D001160	Arterioles
+UBERON:0007362	omasum	A13.869.524	0	D009851	Omasum
+UBERON:0001780	spinal nerve	A08.800.800.720	1	D013127	Spinal Nerves
+UBERON:0001285	nephron	A05.810.453.736	1	D009399	Nephrons
+UBERON:0001183	inferior mesenteric artery	A07.231.114.565.510	1	D017537	Mesenteric Artery, Inferior
+UBERON:0008200	forehead	A01.456.505.580	1	D005546	Forehead
+UBERON:0003707	sinus of Valsalva	A07.231.114.056.847	1	D012850	Sinus of Valsalva
+UBERON:0000382	apocrine sweat gland	A10.336.899.206	1	D001050	Apocrine Glands
+UBERON:0002519	otolithic part of statoconial membrane	A09.246.631.909.625.125.680	1	D010037	Otolithic Membrane
+UBERON:0001720	cochlear nucleus	A08.186.211.132.810.428.600.135	1	D017626	Cochlear Nucleus
+UBERON:0011860	collection of collagen fibrils	D12.776.860.300.250.300	1	D024022	Fibrillar Collagens
+UBERON:0000362	renal medulla	A05.810.453.466	1	D007679	Kidney Medulla
+UBERON:0001228	renal papilla	A05.810.453.466	1	D007679	Kidney Medulla
+UBERON:0001886	choroid plexus	A08.186.211.276.298	1	D002831	Choroid Plexus
+UBERON:0002129	cerebellar cortex	A08.186.211.132.810.428.200.212	1	D002525	Cerebellar Cortex
+UBERON:0002067	dermis	A17.815.180	1	D020405	Dermis
+UBERON:0003699	pubic symphysis	A02.835.583.656	1	D011631	Pubic Symphysis
+UBERON:0004134	proximal tubule	A05.810.453.736.560.570	1	D007687	Kidney Tubules, Proximal
+UBERON:0002407	pericardium	A07.541.795	1	D010496	Pericardium
+UBERON:0001594	azygos vein	A07.231.908.106	1	D001401	Azygos Vein
+UBERON:0002010	celiac nerve plexus	A08.800.050.050.150	1	D002447	Celiac Plexus
+UBERON:0004288	skeleton	A02.835	1	D012863	Skeleton
+UBERON:0002099	cardiac septum	A07.541.459	1	D006346	Heart Septum
+UBERON:0004187	Harderian gland	A13.445	0	D006243	Harderian Gland
+UBERON:0001700	geniculate ganglion	A08.340.390.380	1	D005830	Geniculate Ganglion
+UBERON:0001800	sensory ganglion	A08.340.390	1	D017950	Ganglia, Sensory
+UBERON:0009472	axilla	A01.378.800.090	1	D001365	Axilla
+UBERON:0003680	posterior cruciate ligament of knee joint	A02.513.514.600	1	D016119	Posterior Cruciate Ligament
+UBERON:0008982	fascia	A02.340	1	D005205	Fascia
+UBERON:0004758	salt gland	A13.811	0	D012491	Salt Gland
+UBERON:0006724	osseus spiral lamina	A09.246.631.246.930	1	D013137	Spiral Lamina
+UBERON:0002297	cerumen	A12.200.147	1	D002571	Cerumen
+UBERON:0000033	head	A01.456	1	D006257	Head
+UBERON:0001646	abducens nerve	A08.800.800.120.030	1	D000010	Abducens Nerve
+UBERON:0002413	cervical vertebra	A02.835.232.834.151	1	D002574	Cervical Vertebrae
+UBERON:0001969	blood plasma	A12.207.152.693	1	D010949	Plasma
+UBERON:0003721	lingual nerve	A08.800.800.120.760.500.450	1	D008036	Lingual Nerve
+UBERON:0008199	chin	A01.456.505.259	1	D002680	Chin
+UBERON:0002223	endolymphatic sac	A09.246.631.909.957.360.701	1	D004712	Endolymphatic Sac
+UBERON:0008447	intertarsal joint	A02.835.583.378.831	1	D013640	Tarsal Joints
+UBERON:0002386	forelimb zeugopod	A01.378.800.585	1	D005542	Forearm
+UBERON:0001103	diaphragm	A02.633.567.900.300	1	D003964	Diaphragm
+UBERON:0002050	embryonic structure	A16	1	D004628	Embryonic Structures
+UBERON:0004087	vena cava	A07.231.908.949	1	D014684	Venae Cavae
+UBERON:0005440	ductus arteriosus	A07.541.278.395	1	D004373	Ductus Arteriosus
+UBERON:0002081	cardiac atrium	A07.541.358	1	D006325	Heart Atria
+UBERON:0002019	accessory XI nerve	A08.800.800.120.060	1	D000055	Accessory Nerve
+UBERON:0001017	central nervous system	A08.186	1	D002490	Central Nervous System
+UBERON:0001796	aqueous humor of eyeball	A09.371.060.067.070	1	D001082	Aqueous Humor
+UBERON:0002350	conducting system of heart	A07.541.409	1	D006329	Heart Conduction System
+UBERON:0000020	sense organ	A09	1	D012679	Sense Organs
+UBERON:0001645	trigeminal nerve	A08.800.800.120.760	1	D014276	Trigeminal Nerve
+UBERON:0001821	sebaceous gland	A10.336.827	1	D012627	Sebaceous Glands
+UBERON:0003685	cranial suture	A02.835.232.781.200	1	D003393	Cranial Sutures
+UBERON:0001058	mushroom body	A13.641	0	D024521	Mushroom Bodies
+UBERON:0009050	nucleus of solitary tract	A08.186.211.132.810.406.750	1	D017552	Solitary Nucleus
+UBERON:0002148	locus ceruleus	A08.186.211.132.659.473	1	D008125	Locus Coeruleus
+UBERON:0004535	cardiovascular system	A07	1	D002319	Cardiovascular System
+UBERON:0003696	metatarsophalangeal joint	A02.835.583.378.531	1	D008683	Metatarsophalangeal Joint
+UBERON:0002501	oval window	A09.246.631.909.551	1	D010046	Oval Window, Ear
+UBERON:0001619	ophthalmic artery	A07.231.114.622	1	D009880	Ophthalmic Artery
+UBERON:0005910	transitional epithelium	A10.272.850	1	D019459	Urothelium
+UBERON:0000365	urothelium	A10.272.850	1	D019459	Urothelium
+UBERON:0001130	vertebral column	A02.835.232.834	1	D013131	Spine
+UBERON:0000474	female reproductive system	A05.360.319	1	D005836	Genitalia, Female
+UBERON:0001831	parotid gland	A10.336.779.464	1	D010306	Parotid Gland
+UBERON:0001467	shoulder	A01.378.800.750	1	D012782	Shoulder
+UBERON:0001488	ankle joint	A02.835.583.378.062	1	D000843	Ankle Joint
+UBERON:0006869	electric organ	A13.332	0	D004557	Electric Organ
+UBERON:0007108	vernix caseosa	A12.200.946	0	D014708	Vernix Caseosa
+UBERON:0001764	maxillary sinus	A04.531.621.578	1	D008443	Maxillary Sinus
+UBERON:0002481	bone tissue	A02.835.232	1	D001842	Bone and Bones
+UBERON:0006720	pterygoid muscle	A02.633.567.600.700	1	D011626	Pterygoid Muscles
+UBERON:0010207	nictitating membrane	A13.660	0	D009541	Nictitating Membrane
+UBERON:0003729	mouth mucosa	A10.615.550.599	1	D009061	Mouth Mucosa
+UBERON:0002377	muscle of neck	A02.633.567.650	1	D009334	Neck Muscles
+UBERON:0004465	musculature of neck	A02.633.567.650	1	D009334	Neck Muscles
+UBERON:0012332	broad ligament of uterus	A02.513.170	1	D001956	Broad Ligament
+UBERON:0000011	parasympathetic nervous system	A08.800.050.600	1	D010275	Parasympathetic Nervous System
+UBERON:0005985	coronary vessel	A07.231.114.269	1	D003331	Coronary Vessels
+UBERON:0001600	tensor tympani	A02.633.567.975	1	D013719	Tensor Tympani
+UBERON:0009564	distal limb integumentary appendage	A13.491	1	D006724	Hoof and Claw
+UBERON:0002523	tunica intima	A07.231.330.800	1	D017539	Tunica Intima
+UBERON:0012281	perianal sebaceous gland	A13.734	0	D010481	Perianal Glands
+UBERON:0003681	masticatory muscle	A02.633.567.600	1	D008410	Masticatory Muscles
+UBERON:0001837	duct of salivary gland	A10.336.779.640	1	D018987	Salivary Ducts
+UBERON:0000933	pharyngeal muscle	A02.633.567.800	1	D010609	Pharyngeal Muscles
+UBERON:0002500	zygomatic arch	A02.835.232.781.324.995	1	D015050	Zygoma
+UBERON:0000165	mouth	A01.456.505.631	1	D009055	Mouth
+UBERON:0002349	myocardium	A02.633.580	1	D009206	Myocardium
+UBERON:0001694	petrous part of temporal bone	A02.835.232.781.885.681	1	D010579	Petrous Bone
+UBERON:0011123	stifle joint	A13.473.683	0	D013264	Stifle
+UBERON:0002707	corticospinal tract	A08.186.854.633	1	D011712	Pyramidal Tracts
+UBERON:0002389	manual digit	A01.378.800.667.430	1	D005385	Fingers
+UBERON:0001827	secretion of lacrimal gland	A12.200.882	1	D013666	Tears
+UBERON:0003724	musculocutaneous nerve	A08.800.800.720.050.540	1	D009138	Musculocutaneous Nerve
+UBERON:0002512	corpus luteum	A05.360.319.114.630.278	1	D003338	Corpus Luteum
+UBERON:0002073	hair follicle	A10.272.497.500	1	D018859	Hair Follicle
+UBERON:0002294	biliary system	A03.159	1	D001659	Biliary Tract
+UBERON:0001544	popliteal vein	A07.231.908.641	1	D011152	Popliteal Vein
+UBERON:0002134	tricuspid valve	A07.541.510.893	1	D014261	Tricuspid Valve
+UBERON:0001766	anterior chamber of eyeball	A09.371.060.067	1	D000867	Anterior Chamber
+UBERON:0002366	bulbo-urethral gland	A05.360.444.123	1	D002030	Bulbourethral Glands
+UBERON:0003690	fused sacrum	A02.835.232.834.717	1	D012447	Sacrum
+UBERON:0002347	thoracic vertebra	A02.835.232.834.892	1	D013904	Thoracic Vertebrae
+UBERON:0001184	renal artery	A07.231.114.745	1	D012077	Renal Artery
+UBERON:0000996	vagina	A05.360.319.779	1	D014621	Vagina
+UBERON:0012423	layer of microvilli	A11.284.180.565	1	D008871	Microvilli
+UBERON:0001105	clavicle bone	A02.835.232.087.227	1	D002968	Clavicle
+UBERON:0002107	liver	A03.620	1	D008099	Liver
+UBERON:0001717	spinal nucleus of trigeminal nerve	A08.186.211.132.931.920	1	D014279	Trigeminal Nucleus, Spinal
+UBERON:0006971	antler	A13.507.288	0	D000999	Antlers
+UBERON:0002185	bronchus	A04.411.125	1	D001980	Bronchi
+UBERON:0003948	blood-air barrier	A04.411.715.025	0	D015824	Blood-Air Barrier
+UBERON:0014730	osteon	A10.165.265.507	1	D006253	Haversian System
+UBERON:0012279	chromaffin paraganglion	A06.224.736	1	D010233	Paraganglia, Chromaffin
+UBERON:0003708	carotid sinus	A07.231.114.186.456	1	D002346	Carotid Sinus
+UBERON:0002282	stria vascularis of cochlear duct	A09.246.631.246.292.876	1	D013316	Stria Vascularis
+UBERON:0001697	orbit of skull	A02.835.232.781.324.690	1	D009915	Orbit
+UBERON:0001773	sclera	A09.371.784	1	D012590	Sclera
+UBERON:0000043	tendon	A02.880	1	D013710	Tendons
+UBERON:0000947	aorta	A07.231.114.056	1	D001011	Aorta
+UBERON:0012337	cauda equina	A08.800.800.720.725.150	1	D002420	Cauda Equina
+UBERON:0004096	odontoid process of cervical vertebra 2	A02.835.232.834.151.383.668	1	D009809	Odontoid Process
+UBERON:0000479	tissue	A10	1	D014024	Tissues
+UBERON:0000377	maxillary nerve	A08.800.800.120.760.550	1	D008442	Maxillary Nerve
+UBERON:0003682	palatal muscle	A02.633.567.750	1	D010156	Palatal Muscles
+UBERON:0001193	hepatic artery	A07.231.114.407	1	D006499	Hepatic Artery
+UBERON:0001470	glenohumeral joint	A02.835.583.748	1	D012785	Shoulder Joint
+UBERON:0002228	rib	A02.835.232.904.567	1	D012272	Ribs
+UBERON:0004813	seminiferous tubule epithelium	A05.360.444.849.700.700	1	D012670	Seminiferous Epithelium
+UBERON:0001981	blood vessel	A07.231	1	D001808	Blood Vessels
+UBERON:0001067	vertebral arch joint	A02.835.583.979	1	D021801	Zygapophyseal Joint
+UBERON:0001756	middle ear	A09.246.397	1	D004432	Ear, Middle
+UBERON:0001710	lower jaw region	A02.835.232.781.324.502.632	1	D008334	Mandible
+UBERON:0001684	mandible	A02.835.232.781.324.502.632	1	D008334	Mandible
+UBERON:0002165	endocardium	A07.541.207	1	D004699	Endocardium
+UBERON:0005617	mesenteric vein	A07.231.908.670.385	1	D008642	Mesenteric Veins
+UBERON:0005610	iliac vein	A07.231.908.427	1	D007084	Iliac Vein
+UBERON:0003701	calcaneal tendon	A02.880.176	1	D000125	Achilles Tendon
+UBERON:0000376	hindlimb stylopod	A01.378.610.750	1	D013848	Thigh
+UBERON:0003723	vestibular nerve	A08.800.800.120.910.900	1	D014725	Vestibular Nerve
+UBERON:0002362	arachnoid mater	A08.186.566.166	1	D001099	Arachnoid
+UBERON:0034728	autonomic nerve	A08.800.050.050	1	D017776	Autonomic Pathways
+UBERON:0000061	anatomical structure	A13	1	D000825	Animal Structures
+UBERON:0001093	vertebral bone 2	A02.835.232.834.151.383	1	D001368	Axis
+UBERON:0001464	hip	A01.378.610.400	1	D006615	Hip
+UBERON:0002037	cerebellum	A08.186.211.132.810.428.200	1	D002531	Cerebellum
+UBERON:0002518	otolith organ	A09.246.631.909.625	1	D012444	Saccule and Utricle
+UBERON:0003722	middle cranial fossa	A01.456.830.165	1	D035301	Cranial Fossa, Middle
+UBERON:0002162	area postrema	A08.186.211.132.810.406.286	1	D031608	Area Postrema
+UBERON:0001235	adrenal cortex	A06.407.071.140	1	D000302	Adrenal Cortex
+UBERON:0002382	rectus abdominis muscle	A02.633.567.050.800	1	D017568	Rectus Abdominis
+UBERON:0000014	zone of skin	A17.815	1	D012867	Skin
+UBERON:0002097	skin of body	A17.815	1	D012867	Skin
+UBERON:0000173	amniotic fluid	A12.098	0	D000653	Amniotic Fluid
+UBERON:0005806	portal system	A07.231.908.670	1	D011168	Portal System
+UBERON:0002466	intestine secretion	A12.200.390	1	D007419	Intestinal Secretions
+UBERON:0004769	diaphysis	A02.835.232.169	1	D018483	Diaphyses
+UBERON:0001437	epiphysis	A02.835.232.251	1	D004838	Epiphyses
+UBERON:0007361	ruminant reticulum	A13.869.697	0	D012159	Reticulum
+UBERON:0000344	mucosa	A10.615.550	1	D009092	Mucous Membrane
+UBERON:0001016	nervous system	A08	1	D009420	Nervous System
+UBERON:0006967	horn	A13.507	0	D006733	Horns
+UBERON:0001769	iris	A09.371.894.513	1	D007498	Iris
+UBERON:0001236	adrenal medulla	A06.224.161	1	D019439	Chromaffin Cells
+UBERON:0002517	basicranium	A01.456.830	1	D019291	Skull Base
+UBERON:0002012	pulmonary artery	A07.231.114.715	1	D011651	Pulmonary Artery
+UBERON:0005303	hypogastric nerve	A08.800.050.050.400	1	D007001	Hypogastric Plexus
+UBERON:0002371	bone marrow	A15.382.216	1	D001853	Bone Marrow
+UBERON:0001456	face	A01.456.505	1	D005145	Face
+UBERON:0001296	myometrium	A02.633.570.500	1	D009215	Myometrium
+UBERON:0001890	forebrain	A08.186.211.730	1	D016548	Prosencephalon
+UBERON:0003951	ocular fundus	A09.371.729.313	0	D005654	Fundus Oculi
+UBERON:0004727	cochlear nerve	A08.800.800.120.910.120	1	D003056	Cochlear Nerve
+UBERON:0002146	pulmonary valve	A07.541.510.738	1	D011664	Pulmonary Valve
+UBERON:0001346	vaginal hymen	A05.360.319.779.479	1	D006924	Hymen
+UBERON:0010545	metatarsus skeleton	A01.378.610.250.300.480	1	D008684	Metatarsus
+UBERON:0001644	trochlear nerve	A08.800.800.120.800	1	D014321	Trochlear Nerve
+UBERON:0001771	pupil	A09.371.894.513.780	1	D011680	Pupil
+UBERON:0001905	pineal body	A06.407.635	1	D010870	Pineal Gland
+UBERON:0001887	internal capsule of telencephalon	A08.186.211.730.885.435	1	D020772	Internal Capsule
+UBERON:0005413	spinocerebellar tract	A08.612.220.725	1	D020824	Spinocerebellar Tracts
+UBERON:0005386	olfactory segment of nasal mucosa	A04.531.520.573	1	D009831	Olfactory Mucosa
+UBERON:0003713	splenic vein	A07.231.908.670.730	1	D013162	Splenic Vein
+UBERON:0001896	medulla oblongata	A08.186.211.132.810.406	1	D008526	Medulla Oblongata
+UBERON:0001620	central retinal artery	A07.231.114.765	1	D012161	Retinal Artery
+UBERON:0005974	posterior cerebellomedullary cistern	A08.186.566.166.686.351	1	D002946	Cisterna Magna
+UBERON:0007230	lateral vestibular nucleus	A08.186.211.132.810.428.600.800.800	1	D003689	Vestibular Nucleus, Lateral
+UBERON:0002005	enteric nervous system	A08.800.050.150	1	D017615	Enteric Nervous System
+UBERON:0000158	membranous layer	A10.615	1	D008566	Membranes
+UBERON:0001895	metencephalon	A08.186.211.132.810.428	1	D020540	Metencephalon
+UBERON:0001492	radial nerve	A08.800.800.720.050.700	1	D011826	Radial Nerve
+UBERON:0001011	hemolymph	A13.453	0	D006458	Hemolymph
+UBERON:0002944	spinothalamic tract of medulla	A08.186.854.761	1	D013133	Spinothalamic Tracts
+UBERON:0000912	mucus	A12.200.503	1	D009093	Mucus
+UBERON:0002028	hindbrain	A08.186.211.132.810	1	D012249	Rhombencephalon
+UBERON:0000948	heart	A07.541	1	D006321	Heart
+UBERON:0008450	psoas muscle	A02.633.567.825	1	D016658	Psoas Muscles
+UBERON:0000074	renal glomerulus	A05.810.453.736.520	1	D007678	Kidney Glomerulus
+UBERON:0009060	air sac	A13.048	0	D000400	Air Sacs
+UBERON:0002522	tunica media	A02.633.570.491.800	1	D017540	Tunica Media
+UBERON:0001485	knee joint	A02.835.583.475	1	D007719	Knee Joint
+UBERON:0002061	truncus arteriosus	A07.541.278.930	1	D014338	Truncus Arteriosus
+UBERON:0001352	external acoustic meatus	A09.246.272.396	1	D004424	Ear Canal
+UBERON:0007610	tibial artery	A07.231.114.895	1	D016909	Tibial Arteries
+UBERON:0000483	epithelium	A10.272	1	D004848	Epithelium
+UBERON:0001072	posterior vena cava	A07.231.908.949.648	1	D014682	Vena Cava, Inferior
+UBERON:0001627	middle cerebral artery	A07.231.114.228.550	1	D020768	Middle Cerebral Artery
+UBERON:0000045	ganglion	A08.340	1	D005724	Ganglia
+UBERON:0000989	penis	A05.360.444.492	1	D010413	Penis
+UBERON:0003704	intrahepatic bile duct	A03.159.183.158	1	D001653	Bile Ducts, Intrahepatic
+UBERON:0002925	trigeminal nucleus	A08.186.211.132.931	1	D014278	Trigeminal Nuclei
+UBERON:0000992	female gonad	A05.360.319.114.630	1	D010053	Ovary
+UBERON:0001529	brachiocephalic artery	A07.231.114.145	1	D016122	Brachiocephalic Trunk
+UBERON:0002053	zona glomerulosa of adrenal gland	A06.407.071.140.960	1	D015384	Zona Glomerulosa
+UBERON:0003957	Bruch's membrane	A09.371.894.223.250	1	D016570	Bruch Membrane
+UBERON:0002390	hematopoietic system	A15.378	1	D006413	Hematopoietic System
+UBERON:0001486	hip joint	A02.835.583.411	1	D006621	Hip Joint
+UBERON:0000310	breast	A01.236	1	D001940	Breast
+UBERON:0001463	manual digit 1	A01.378.800.667.430.705	1	D013933	Thumb
+UBERON:0002453	ethmoid sinus	A04.531.621.267	1	D005005	Ethmoid Sinus
+UBERON:0001031	sheath of Schwann	A08.561.600	1	D009441	Neurilemma
+UBERON:0002135	mitral valve	A07.541.510.507	1	D008943	Mitral Valve
+UBERON:0000978	leg	A01.378.610	1	D035002	Lower Extremity
+UBERON:0001643	oculomotor nerve	A08.800.800.120.600	1	D009802	Oculomotor Nerve
+UBERON:0001908	optic tract	A08.612.220.860	1	D014795	Visual Pathways
+UBERON:0011319	disk of temporomandibular joint	A02.835.583.861.900	1	D019224	Temporomandibular Joint Disc
+UBERON:0005396	carotid artery segment	A07.231.114.186	1	D002339	Carotid Arteries
+UBERON:0002353	atrioventricular bundle	A07.541.409.273	1	D002036	Bundle of His
+UBERON:0007365	rumen	A13.869.804	0	D012417	Rumen
+UBERON:0007318	saphenous vein	A07.231.908.819	1	D012501	Saphenous Vein
+UBERON:0000460	major vestibular gland	A05.360.319.887.220	1	D001472	Bartholin's Glands
+UBERON:0002378	muscle of abdomen	A02.633.567.050	1	D000009	Abdominal Muscles
+UBERON:0000966	retina	A09.371.729	1	D012160	Retina
+UBERON:0003725	cervical plexus	A08.800.800.720.150	1	D002572	Cervical Plexus
+UBERON:0006849	scapula	A02.835.232.087.783	1	D012540	Scapula
+UBERON:0002286	third ventricle	A08.186.211.276.840	1	D020542	Third Ventricle
+UBERON:0001914	colostrum	A12.200.194	1	D003126	Colostrum
+UBERON:0000086	zona pellucida	A05.360.490.690.950	1	D015044	Zona Pellucida
+UBERON:0003703	extrahepatic bile duct	A03.159.183.079	1	D017734	Bile Ducts, Extrahepatic
+UBERON:0001910	medial forebrain bundle	A08.612.492	1	D008474	Medial Forebrain Bundle
+UBERON:0001174	common bile duct	A03.159.183.079.300	1	D003135	Common Bile Duct
+UBERON:0001840	semicircular canal	A09.246.631.663	1	D012665	Semicircular Canals
+UBERON:0001394	axillary artery	A07.231.114.085	1	D001366	Axillary Artery
+UBERON:0004711	jugular vein	A07.231.908.498	1	D007601	Jugular Veins
+UBERON:0001836	saliva	A12.200.666	1	D012463	Saliva
+UBERON:0002030	nipple	A01.236.500	1	D009558	Nipples
+UBERON:0007357	proventriculus	A13.853.710	0	D011531	Proventriculus
+UBERON:0001705	nail	A17.600	1	D009262	Nails
+UBERON:0002046	thyroid gland	A06.407.900	1	D013961	Thyroid Gland
+UBERON:0004452	carpal region	A01.378.800.667.715	1	D014953	Wrist
+UBERON:0005052	gizzard	A13.853.363	0	D005895	Gizzard
+UBERON:0001815	lumbosacral nerve plexus	A08.800.800.720.450	1	D008160	Lumbosacral Plexus
+UBERON:0000029	lymph node	A15.382.520.604.412	1	D008198	Lymph Nodes
+UBERON:0013691	buttock	A01.378.610.100	1	D002081	Buttocks
+UBERON:0000007	pituitary gland	A06.407.747	1	D010902	Pituitary Gland
+UBERON:0001194	splenic artery	A07.231.114.814	1	D013157	Splenic Artery
+UBERON:0002082	cardiac ventricle	A07.541.560	1	D006352	Heart Ventricles
+UBERON:0001723	tongue	A14.549.885	1	D014059	Tongue
+UBERON:0000482	basal lamina of epithelium	A10.272.220	1	D001485	Basement Membrane
+UBERON:0000013	sympathetic nervous system	A08.800.050.800	1	D013564	Sympathetic Nervous System
+UBERON:0000403	scalp	A01.456.810	1	D012535	Scalp
+UBERON:0000423	eccrine sweat gland	A10.336.899.480	1	D004439	Eccrine Glands
+UBERON:0001579	olfactory nerve	A08.800.800.120.640	1	D009832	Olfactory Nerve
+UBERON:0005609	iliac artery	A07.231.114.444	1	D007083	Iliac Artery
+UBERON:0003501	retina blood vessel	A07.231.611	0	D012171	Retinal Vessels
+UBERON:0004864	vasculature of retina	A07.231.611	1	D012171	Retinal Vessels
+UBERON:0003689	sella turcica	A02.835.232.781.802.662	1	D012658	Sella Turcica
+UBERON:0001070	external carotid artery	A07.231.114.186.200.210	1	D002342	Carotid Artery, External
+UBERON:0002367	prostate gland	A05.360.444.575	1	D011467	Prostate
+UBERON:0001866	sebum	A12.200.702	1	D012629	Sebum
+UBERON:0002385	muscle tissue	A02.633	1	D009132	Muscles
+UBERON:0007721	interphalangeal joint of pes	A02.835.583.378.900	1	D014033	Toe Joint
+UBERON:0001143	hepatic vein	A07.231.908.380	1	D006503	Hepatic Veins
+UBERON:0000162	cloaca	A13.223	1	D002988	Cloaca
+UBERON:0002673	vestibular nuclear complex	A08.186.211.132.810.428.600.800	1	D014726	Vestibular Nuclei
+UBERON:0000922	embryo	A16.254	1	D004622	Embryo, Mammalian
+UBERON:0001343	seminiferous tubule of testis	A05.360.444.849.700	1	D012671	Seminiferous Tubules
+UBERON:0002441	cervicothoracic ganglion	A08.340.315.350.800	1	D013233	Stellate Ganglion
+UBERON:0001971	gastric juice	A12.200.307	1	D005750	Gastric Juice
+UBERON:0001365	sacro-iliac joint	A02.835.583.707	1	D012446	Sacroiliac Joint
+UBERON:0007311	sputum	A12.200.808	0	D013183	Sputum
+UBERON:0001759	vagus nerve	A08.800.050.050.925	1	D014630	Vagus Nerve
+UBERON:0003686	tooth socket	A02.835.232.781.324.502.125.800	1	D020390	Tooth Socket
+UBERON:0001891	midbrain	A08.186.211.132.659	1	D008636	Mesencephalon
+UBERON:0001677	sphenoid bone	A02.835.232.781.802	1	D013100	Sphenoid Bone
+UBERON:0003129	skull	A02.835.232.781	1	D012886	Skull
+UBERON:0001490	elbow joint	A02.835.583.290	1	D004551	Elbow Joint
+UBERON:0013196	strand of wool	A13.970	0	D014935	Wool
+UBERON:0002048	lung	A04.411	1	D008168	Lung
+UBERON:0002411	clitoris	A05.360.319.887.436	1	D002987	Clitoris
+UBERON:0001267	femoral nerve	A08.800.800.720.450.250	1	D005267	Femoral Nerve
+UBERON:0000209	tetrapod frontal bone	A02.835.232.781.375	1	D005624	Frontal Bone
+UBERON:0001762	nasal concha	A02.835.232.781.324.948	1	D014420	Turbinates
+UBERON:0001736	submandibular gland	A10.336.779.812	1	D013363	Submandibular Gland
+UBERON:0001988	feces	A12.459	1	D005243	Feces
+UBERON:0003631	pedal digit 1	A01.378.610.250.300.792.380	1	D006214	Hallux
+UBERON:0002240	spinal cord	A08.186.854	1	D013116	Spinal Cord
+UBERON:0002450	decidua	A05.360.319.679.490.373	1	D003656	Decidua
+UBERON:0002486	glottis	A04.329.364	1	D005931	Glottis
+UBERON:0002422	fourth ventricle	A08.186.211.276.500	1	D020546	Fourth Ventricle
+UBERON:0001404	radial artery	A07.231.114.740	1	D017534	Radial Artery
+UBERON:0004714	septum pellucidum	A08.186.211.276.814	1	D012688	Septum Pellucidum
+UBERON:0000941	cranial nerve II	A08.800.800.120.680	1	D009900	Optic Nerve
+UBERON:0003706	laryngeal vocal fold	A04.329.364.737	1	D014827	Vocal Cords
+UBERON:0006761	corneo-scleral junction	A09.371.060.217.659	1	D016850	Limbus Corneae
+UBERON:0000323	late embryo	A16.378	1	D005333	Fetus
+UBERON:0001772	corneal epithelium	A09.371.060.217.325	1	D019573	Epithelium, Corneal
+UBERON:0000949	endocrine system	A06	1	D004703	Endocrine System
+UBERON:0002075	viscus	A01.960	1	D014781	Viscera
+UBERON:0005094	beak	A13.114	0	D001502	Beak
+UBERON:0009025	gastroepiploic artery	A07.231.114.379	0	D024405	Gastroepiploic Artery
+UBERON:0000970	eye	A01.456.505.420	1	D005123	Eye
+UBERON:0001707	nasal cavity	A04.531.449	1	D009296	Nasal Cavity
+UBERON:0000416	subdural space	A08.186.566.395.687	1	D013355	Subdural Space
+UBERON:0002016	pulmonary vein	A07.231.908.713	1	D011667	Pulmonary Veins
+UBERON:0004449	cerebral artery	A07.231.114.228	1	D002536	Cerebral Arteries
+UBERON:0009623	spinal nerve root	A08.800.800.720.725	1	D013126	Spinal Nerve Roots
+UBERON:0000347	myelin sheath	A08.637.600.500	1	D009186	Myelin Sheath
+UBERON:0001650	hypoglossal nerve	A08.800.800.120.330	1	D007002	Hypoglossal Nerve
+UBERON:0003692	acromioclavicular joint	A02.835.583.032	1	D000173	Acromioclavicular Joint
+UBERON:0002285	telencephalic ventricle	A08.186.211.276.650	1	D020547	Lateral Ventricles
+UBERON:0006314	bodily fluid	A12.207	1	D001826	Body Fluids
+UBERON:0002130	cerebellar nuclear complex	A08.186.211.132.810.428.200.337	1	D002529	Cerebellar Nuclei
+UBERON:0001530	common carotid artery plus branches	A07.231.114.186.200	1	D017536	Carotid Artery, Common
+UBERON:0005357	brain ependyma	A08.186.211.276.460	1	D004805	Ependyma
+UBERON:0004670	ependyma	A08.186.211.276.460	1	D004805	Ependyma
+UBERON:0001008	renal system	A05.810	1	D014551	Urinary Tract
+UBERON:0000004	olfactory apparatus	A01.456.505.733	1	D009666	Nose
+UBERON:0003727	intercostal nerve	A08.800.800.720.800.350	1	D007367	Intercostal Nerves
+UBERON:0000974	neck	A01.598	1	D009333	Neck
+UBERON:0001300	scrotum	A05.360.444.661	1	D012611	Scrotum
+UBERON:0002394	bile duct	A03.159.183	1	D001652	Bile Ducts
+UBERON:0034931	perforant path	A08.612.600	1	D019580	Perforant Pathway
+UBERON:0006531	oculomotor muscle	A02.633.567.700	1	D009801	Oculomotor Muscles
+UBERON:0000985	axillary vein	A07.231.908.077	1	D001367	Axillary Vein
+UBERON:0003670	smegma	A12.200.769	1	D012902	Smegma
+UBERON:0011818	superficial fascia	A10.165.887	1	D040521	Subcutaneous Tissue
+UBERON:0001805	autonomic ganglion	A08.340.315	1	D005725	Ganglia, Autonomic
+UBERON:0003683	rotator cuff	A02.633.567.912	1	D017006	Rotator Cuff
+UBERON:0002279	vestibular aqueduct	A09.246.631.909.957	1	D014723	Vestibular Aqueduct
+UBERON:0001225	cortex of kidney	A05.810.453.324	1	D007672	Kidney Cortex
+UBERON:0002042	lymphatic vessel endothelium	A10.272.491.332	1	D004729	Endothelium, Lymphatic
+UBERON:0001689	malleus bone	A09.246.397.247.524	1	D008307	Malleus
+UBERON:0001487	pes joint	A02.835.583.378	1	D033023	Foot Joints
+UBERON:0001585	anterior vena cava	A07.231.908.949.815	1	D014683	Vena Cava, Superior
+UBERON:0001054	Malpighian tubule	A13.574	0	D008317	Malpighian Tubules
+UBERON:0001568	muscle of larynx	A02.633.567.500	1	D007821	Laryngeal Muscles
+UBERON:0004478	musculature of larynx	A02.633.567.500	1	D007821	Laryngeal Muscles
+UBERON:0000023	wing	A13.395.823	0	D014921	Wing
+UBERON:0002365	exocrine gland	A10.336	1	D005088	Exocrine Glands
+UBERON:0002066	umbilical vein	A07.231.908.670.874	1	D014471	Umbilical Veins
+UBERON:0001777	substantia propria of cornea	A09.371.060.217.228	1	D003319	Corneal Stroma
+UBERON:0000326	pancreatic juice	A12.200.567	1	D010189	Pancreatic Juice
+UBERON:0008962	forelimb bone	A02.835.232.087	1	D001133	Bones of Upper Extremity
+UBERON:0003216	hard palate	A02.835.232.781.324.502.660	1	D021362	Palate, Hard
+UBERON:0001322	sciatic nerve	A08.800.800.720.450.760	1	D012584	Sciatic Nerve
+UBERON:0000993	oviduct	A13.706	1	D010057	Oviducts
+UBERON:0002060	femoral artery	A07.231.114.351	1	D005263	Femoral Artery
+UBERON:0004785	respiratory system mucosa	A04.760	1	D020545	Respiratory Mucosa
+UBERON:0005363	inferior vagus X ganglion	A08.340.390.550	1	D009620	Nodose Ganglion
+UBERON:0003691	epidural space	A02.835.232.834.803.350	1	D004824	Epidural Space
+UBERON:0014892	skeletal muscle organ	A02.633.567	1	D018482	Muscle, Skeletal
+UBERON:0003676	patellar ligament	A02.513.514.475	1	D017847	Patellar Ligament
+UBERON:0012168	umbilical cord blood	A12.207.152.200	0	D005312	Fetal Blood
+UBERON:0003710	vasa vasorum	A07.231.836	1	D014651	Vasa Vasorum
+UBERON:0002351	sinoatrial node	A07.541.409.819	1	D012849	Sinoatrial Node
+UBERON:0002405	immune system	A15.382	1	D007107	Immune System
+UBERON:0002502	round window of inner ear	A09.246.631.246.814	1	D012405	Round Window, Ear
+UBERON:0002040	bronchial artery	A07.231.114.158	1	D001981	Bronchial Arteries
+UBERON:0010163	eyebrow	A01.456.505.420.338	1	D005138	Eyebrows
+UBERON:0001310	umbilical artery	A07.231.114.929	1	D014469	Umbilical Arteries
+UBERON:0001089	sweat	A12.200.849	1	D013542	Sweat
+UBERON:0001148	median nerve	A08.800.800.720.050.500	1	D008475	Median Nerve
+UBERON:0001004	respiratory system	A04	1	D012137	Respiratory System
+UBERON:0001768	uvea	A09.371.894	1	D014602	Uvea
+UBERON:0000363	reticuloendothelial system	A15.382.812	1	D012157	Mononuclear Phagocyte System
+UBERON:0006558	lymphatic part of lymphoid system	A15.382.520	1	D008208	Lymphatic System
+UBERON:0001884	phrenic nerve	A08.800.800.720.150.700	1	D010791	Phrenic Nerve
+UBERON:0003668	synovial bursa	A02.835.583.156	1	D002061	Bursa, Synovial
+UBERON:0002017	portal vein	A07.231.908.670.567	1	D011169	Portal Vein
+UBERON:0001818	tarsal gland	A09.371.337.614	1	D008537	Meibomian Glands
+UBERON:0003822	forelimb stylopod	A01.378.800.075	1	D001132	Arm
+UBERON:0003959	rete testis	A05.360.444.849.600	1	D012152	Rete Testis
+UBERON:0001516	abdominal aorta	A07.231.114.056.205	1	D001012	Aorta, Abdominal
+UBERON:0003889	fallopian tube	A05.360.319.114.373	1	D005187	Fallopian Tubes
+UBERON:0005236	osseus labyrinth vestibule	A09.246.631.909	1	D014722	Vestibule, Labyrinth
+UBERON:0007795	ascitic fluid	A12.207.119	0	D001202	Ascitic Fluid
+UBERON:0001237	paraaortic body	A06.224.636	1	D010220	Para-Aortic Bodies
+UBERON:0001830	minor salivary gland	A10.336.779.650	1	D012470	Salivary Glands, Minor
+UBERON:0001515	thoracic aorta	A07.231.114.056.372	1	D001013	Aorta, Thoracic
+UBERON:0002363	dura mater	A08.186.566.395	1	D004388	Dura Mater
+UBERON:0000210	tetrapod parietal bone	A02.835.232.781.651	1	D010294	Parietal Bone
+UBERON:0000995	uterus	A05.360.319.679	1	D014599	Uterus
+UBERON:0003679	mouth floor	A14.549.441	1	D009060	Mouth Floor
+UBERON:0003092	ultimobranchial body	A13.939	1	D014460	Ultimobranchial Body
+UBERON:0001532	internal carotid artery	A07.231.114.186.200.230	1	D002343	Carotid Artery, Internal
+UBERON:0003133	reproductive organ	A05.360	1	D005835	Genitalia
+UBERON:0002741	diagonal band of Broca	A08.186.211.730.885.380	1	D020667	Diagonal Band of Broca
+UBERON:0000038	follicular fluid	A05.360.319.114.630.535.150	1	D015571	Follicular Fluid
+UBERON:0002494	papillary muscle of heart	A02.633.580.680	1	D010210	Papillary Muscles
+UBERON:0001855	cochlear duct of membranous labyrinth	A09.246.631.246.292	1	D003053	Cochlear Duct
+UBERON:0002354	purkinje fiber	A07.541.409.683	1	D011690	Purkinje Fibers
+UBERON:0001616	maxillary artery	A07.231.114.523	1	D008438	Maxillary Artery
+UBERON:0012453	nerve ending	A08.800.550	1	D009411	Nerve Endings
+UBERON:0001785	cranial nerve	A08.800.800.120	1	D003391	Cranial Nerves
+UBERON:0001057	corpus allatum	A08.713.100	0	D003335	Corpora Allata
+UBERON:0001597	masseter muscle	A02.633.567.600.500	1	D008406	Masseter Muscle
+UBERON:0002204	musculoskeletal system	A02	1	D009141	Musculoskeletal System
+UBERON:0001495	pectoral muscle	A02.633.567.775	1	D010369	Pectoralis Muscles
+UBERON:0002606	neuropil	A08.637.500	1	D019581	Neuropil
+UBERON:0001007	digestive system	A03	1	D004064	Digestive System
+UBERON:0002103	hindlimb	A13.473	1	D006614	Hindlimb
+UBERON:0002418	cartilage tissue	A02.165	1	D002356	Cartilage
+UBERON:0004086	brain ventricle	A08.186.211.276	1	D002552	Cerebral Ventricles
+UBERON:0001864	scala tympani	A09.246.631.246.848	1	D012533	Scala Tympani
+UBERON:0000998	seminal vesicle	A05.360.444.713	1	D012669	Seminal Vesicles
+UBERON:0001734	palatine uvula	A14.549.617.780.729	1	D014609	Uvula
+UBERON:0014908	cerebellopontine angle	A08.186.211.132.810.428.200.462	1	D002530	Cerebellopontine Angle
+UBERON:0004135	distal tubule	A05.810.453.736.560.540	1	D007686	Kidney Tubules, Distal
+UBERON:0000079	male reproductive system	A05.360.444	1	D005837	Genitalia, Male
+UBERON:0006725	spiral ligament	A09.246.631.246.965	1	D055493	Spiral Ligament of Cochlea
+UBERON:0002054	zona fasciculata of adrenal gland	A06.407.071.140.950	1	D015383	Zona Fasciculata
+UBERON:0002298	brainstem	A08.186.211.132	1	D001933	Brain Stem
+UBERON:0001288	loop of Henle	A05.810.453.736.560.610	1	D008138	Loop of Henle
+UBERON:0002368	endocrine gland	A06.407	1	D004702	Endocrine Glands
+UBERON:0001678	temporal bone	A02.835.232.781.885	1	D013701	Temporal Bone
+UBERON:0010211	granulation tissue	A10.165.450	0	D006097	Granulation Tissue
+UBERON:0002387	pes	A01.378.610.250	1	D005528	Foot
+UBERON:0002398	manus	A01.378.800.667	1	D006225	Hand
+UBERON:0002416	integumental system	A17	1	D034582	Integumentary System
+UBERON:0000955	brain	A08.186.211	1	D001921	Brain
+UBERON:0001675	trigeminal ganglion	A08.340.390.850	1	D012668	Trigeminal Ganglion
+UBERON:0001037	strand of hair	A17.360	1	D006197	Hair
+UBERON:0001013	adipose tissue	A10.165.114	1	D000273	Adipose Tissue
+UBERON:0001986	endothelium	A10.272.491	1	D004727	Endothelium
+UBERON:0008788	posterior cranial fossa	A01.456.830.200	1	D003388	Cranial Fossa, Posterior
+UBERON:0001833	lip	A01.456.505.631.515	1	D008046	Lip
+UBERON:0002439	myenteric nerve plexus	A08.800.050.050.500	1	D009197	Myenteric Plexus
+UBERON:0000056	ureter	A05.810.776	1	D014513	Ureter
+UBERON:0001786	fovea centralis	A09.371.729.522.436	1	D005584	Fovea Centralis
+UBERON:0001000	vas deferens	A05.360.444.930	1	D014649	Vas Deferens
+UBERON:0004103	alveolar ridge	A02.835.232.781.324.502.125	1	D000539	Alveolar Process
+UBERON:0003673	ligamentum flavum	A02.513.514.287	1	D017843	Ligamentum Flavum
+UBERON:0002055	zona reticularis of adrenal gland	A06.407.071.140.970	1	D015385	Zona Reticularis
+UBERON:0001044	saliva-secreting gland	A10.336.779	1	D012469	Salivary Glands
+UBERON:0001461	elbow	A01.378.800.420	1	D004550	Elbow
+UBERON:0001825	paranasal sinus	A04.531.621	1	D010256	Paranasal Sinuses
+UBERON:0001021	nerve	A08.800.800	1	D010525	Peripheral Nerves
+UBERON:0001846	internal ear	A09.246.631	1	D007758	Ear, Inner
+UBERON:0001820	sweat gland	A10.336.899	1	D013545	Sweat Glands
+UBERON:0005352	spermatic cord	A05.360.444.777	1	D013085	Spermatic Cord
+UBERON:0002299	alveolus of lung	A04.411.715	1	D011650	Pulmonary Alveoli
+UBERON:0001624	anterior cerebral artery	A07.231.114.228.100	1	D020771	Anterior Cerebral Artery
+UBERON:0001724	sphenoidal sinus	A04.531.621.827	1	D013101	Sphenoid Sinus
+UBERON:0001232	collecting duct of renal tubule	A05.810.453.736.560.510	1	D007685	Kidney Tubules, Collecting
+UBERON:0001687	stapes bone	A09.246.397.247.806	1	D013199	Stapes
+UBERON:0003903	bursa of Fabricius	A13.163	0	D002060	Bursa of Fabricius
+UBERON:0000999	ejaculatory duct	A05.360.444.251	1	D004543	Ejaculatory Ducts
+UBERON:0003698	subtalar joint	A02.835.583.378.831.780	1	D013380	Subtalar Joint
+UBERON:0001893	telencephalon	A08.186.211.730.885	1	D013687	Telencephalon
+UBERON:0006517	kidney calyx	A05.810.453.537.503	1	D007670	Kidney Calices
+UBERON:0005079	eggshell	A13.316	0	D004528	Egg Shell
+UBERON:0001599	stapedius muscle	A02.633.567.950	1	D013198	Stapedius
+UBERON:0001663	cerebral vein	A07.231.908.155	1	D002550	Cerebral Veins
+UBERON:0000964	cornea	A09.371.060.217	1	D003315	Cornea
+UBERON:0001295	endometrium	A05.360.319.679.490	1	D004717	Endometrium
+UBERON:0008897	fin	A13.077	0	D058500	Animal Fins
+UBERON:0000316	cervical mucus	A12.200.503.339	1	D002582	Cervix Mucus
+UBERON:0001783	optic disc	A08.800.800.120.680.660	1	D009898	Optic Disk
+UBERON:0002250	popliteal artery	A07.231.114.681	1	D011150	Popliteal Artery
+UBERON:0000946	cardial valve	A07.541.510	1	D006351	Heart Valves
+UBERON:0004852	cardiovascular system endothelium	A07.231.330	1	D004730	Endothelium, Vascular
+UBERON:0011252	scent gland	A13.820	0	D012543	Scent Glands
+UBERON:0001633	basilar artery	A07.231.114.106	1	D001488	Basilar Artery
+UBERON:0001175	common hepatic duct	A03.159.183.079.600	1	D006500	Hepatic Duct, Common
+UBERON:0001985	corneal endothelium	A09.371.060.067.318	1	D004728	Endothelium, Corneal
+UBERON:0007358	abomasum	A13.869.106	0	D000018	Abomasum
+UBERON:0003917	arthropod fat body	A13.365	0	D005216	Fat Body
+UBERON:0001140	renal vein	A07.231.908.752	1	D012082	Renal Veins
+UBERON:0000002	uterine cervix	A05.360.319.679.256	1	D002584	Cervix Uteri
+UBERON:0000010	peripheral nervous system	A08.800	1	D017933	Peripheral Nervous System
+UBERON:0001679	ethmoid bone	A02.835.232.781.292	1	D005004	Ethmoid Bone
+UBERON:0001494	ulnar nerve	A08.800.800.720.050.850	1	D014459	Ulnar Nerve
+UBERON:0001676	occipital bone	A02.835.232.781.572	1	D009777	Occipital Bone
+UBERON:0001587	subclavian vein	A07.231.908.877	1	D013350	Subclavian Vein
+UBERON:0000042	serous membrane	A10.615.789	1	D012704	Serous Membrane
+UBERON:0002113	kidney	A05.810.453	1	D007668	Kidney
+UBERON:0001533	subclavian artery	A07.231.114.839	1	D013348	Subclavian Artery
+UBERON:0001636	posterior cerebral artery	A07.231.114.228.700	1	D020769	Posterior Cerebral Artery
+UBERON:0002102	forelimb	A13.395	1	D005552	Forelimb
+UBERON:0002018	synovial membrane of synovial joint	A02.835.583.443.800	1	D013583	Synovial Membrane
+UBERON:0001088	urine	A12.207.927	1	D014556	Urine
+UBERON:0000988	pons	A08.186.211.132.810.428.600	1	D011149	Pons
+UBERON:0001637	artery	A07.231.114	1	D001158	Arteries
+UBERON:0000006	islet of Langerhans	A03.734.414	1	D007515	Islets of Langerhans
+UBERON:0001029	neuromuscular junction	A08.800.550.550.550	1	D009469	Neuromuscular Junction
+UBERON:0001350	coccyx	A02.835.232.834.229	1	D003050	Coccyx
+UBERON:0001737	larynx	A04.329	1	D007830	Larynx
+UBERON:0003671	anterior cruciate ligament of knee joint	A02.513.514.100	1	D016118	Anterior Cruciate Ligament
+UBERON:0005465	obturator nerve	A08.800.800.720.450.600	1	D009776	Obturator Nerve
+UBERON:0001406	ulnar artery	A07.231.114.920	1	D017535	Ulnar Artery
+UBERON:0002866	caudal part of spinal trigeminal nucleus	A08.186.211.132.931.920.927	1	D014275	Trigeminal Caudal Nucleus
+UBERON:0002414	lumbar vertebra	A02.835.232.834.519	1	D008159	Lumbar Vertebrae
+UBERON:0001567	cheek	A01.456.505.173	1	D002610	Cheek
+UBERON:0001647	facial nerve	A08.800.800.120.250	1	D005154	Facial Nerve
+UBERON:0001231	nephron tubule	A05.810.453.736.560	1	D007684	Kidney Tubules
+UBERON:0001111	intercostal muscle	A02.633.567.900.500	1	D007366	Intercostal Muscles
+UBERON:0002392	nasolacrimal duct	A09.371.463.640	1	D009301	Nasolacrimal Duct
+UBERON:0000057	urethra	A05.360.444.492.726	1	D014521	Urethra
